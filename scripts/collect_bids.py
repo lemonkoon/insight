@@ -32,7 +32,35 @@ OPERATIONS = {
 }
 
 # 우리 사업 영역 키워드 (공고명에 포함되는지로 검색)
-KEYWORDS = ["통합관제", "네트워크관리시스템", "NMS", "로그관리", "SIEM", "옵저버빌리티", "보안관제"]
+# InfraEye(NMS/EMS)·BigEye(로그관리/SIEM) 제품 자료(1.지식스토리지) 기준으로 정밀화.
+# "통합관제시스템"처럼 "시스템" 접미사를 붙여 좁히면 "스마트도시 통합관제플랫폼 구축",
+# "OO 보안관제 운영 용역"처럼 실제로 관련 있는 정상 공고까지 놓치는 것을 실제 API 호출로 확인했음.
+# 그래서 기존 뭉뚱그린 키워드는 그대로 유지해 재현율을 지키고, 대신 아래 EXCLUDE_KEYWORDS로
+# 지명·시설명 등과 우연히 겹치는 IT 무관 공고만 걸러낸다.
+# "인프라통합관리", "이상행위탐지"는 InfraEye/BigEye(PIS 모듈) 제품 자료에 근거해 새로 추가.
+# "EMS"는 제외 — 실제 조회 결과 "EMS 보급지원사업"(에너지관리시스템, 우리 제품과 무관) 등에
+# 걸리는 것을 확인해 채택하지 않음.
+KEYWORDS = [
+    "통합관제",
+    "네트워크관리시스템",
+    "NMS",
+    "로그관리",
+    "SIEM",
+    "옵저버빌리티",
+    "보안관제",
+    "인프라통합관리",
+    "이상행위탐지",
+]
+
+# 제외 키워드 (공고명에 하나라도 포함되면 결과에서 제외)
+# 포함 키워드와 우연히 겹치는 공사/청소/시설관리/폐기물처리/차량 등 IT와 무관한 용역 필터링용.
+# 예: "군자기지 통합관제센터 대체진입로 개설공사 건설폐기물 처리용역" 같은 오탐 제거.
+EXCLUDE_KEYWORDS = [
+    "공사", "철거", "신축", "증축", "리모델링", "포장", "조경", "진입로",
+    "폐기물", "청소", "방역", "소독",
+    "차량", "주차장",
+    "경비", "미화",
+]
 
 
 def load_service_key() -> str:
@@ -103,9 +131,14 @@ def main():
                 print(f"  - [{biz_type}] '{kw}': 오류 - {items[0]['_error']}", file=sys.stderr)
                 continue
             new_count = 0
+            excluded_count = 0
             for it in items:
                 notice_no = it.get("bidNtceNo", "")
                 if notice_no and notice_no in seen_notice_no:
+                    continue
+                title = it.get("bidNtceNm", "")
+                if any(ex_kw in title for ex_kw in EXCLUDE_KEYWORDS):
+                    excluded_count += 1
                     continue
                 seen_notice_no.add(notice_no)
                 result["bids"].append({
@@ -118,7 +151,7 @@ def main():
                     "link": it.get("bidNtceDtlUrl", "") or it.get("bidNtceUrl", ""),
                 })
                 new_count += 1
-            print(f"  - [{biz_type}] '{kw}': {new_count}건", file=sys.stderr)
+            print(f"  - [{biz_type}] '{kw}': {new_count}건 (제외 {excluded_count}건)", file=sys.stderr)
 
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     out_path = DATA_DIR / f"{today_str}.json"
