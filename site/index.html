@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>InfraEye·BigEye 경쟁사 레이더</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  :root {
+    --bg: #f5f6f8; --card-bg: #ffffff; --text: #1a1d23; --text-dim: #6b7280;
+    --border: #e5e7eb; --accent: #2563eb;
+    --high: #dc2626; --mid: #d97706; --low: #16a34a;
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; font-family: -apple-system, "Segoe UI", "Malgun Gothic", sans-serif; background: var(--bg); color: var(--text); }
+  header { background:#fff; border-bottom:1px solid var(--border); padding:20px 32px; display:flex; justify-content:space-between; align-items:center; }
+  header h1 { font-size:20px; margin:0; }
+  header .updated { color: var(--text-dim); font-size:13px; }
+  main { max-width: 1040px; margin: 0 auto; padding: 24px 20px 60px; }
+  .chips { margin-bottom: 20px; }
+  .chip { display:inline-block; background:#eef2ff; color:#3730a3; border-radius:999px; padding:5px 12px; margin:0 6px 6px 0; font-size:13px; font-weight:600; }
+  .date-tabs { display:flex; gap:8px; overflow-x:auto; padding-bottom:12px; margin-bottom: 20px; border-bottom:1px solid var(--border); }
+  .date-tab { border:1px solid var(--border); background:#fff; border-radius:8px; padding:8px 14px; font-size:13px; cursor:pointer; white-space:nowrap; color: var(--text-dim); }
+  .date-tab.active { background: var(--accent); color:#fff; border-color: var(--accent); font-weight:600; }
+  .subtabs { display:flex; gap:8px; margin-bottom:18px; }
+  .subtab { padding:8px 16px; border-radius:8px; font-size:14px; font-weight:600; cursor:pointer; color: var(--text-dim); }
+  .subtab.active { background:#fff; color:var(--text); box-shadow:0 1px 3px rgba(0,0,0,.08); }
+  .date-panel { display:none; }
+  .date-panel.active { display:block; }
+  body.mode-domestic .global-content { display:none; }
+  body.mode-global .domestic-content { display:none; }
+  .company-card { background: var(--card-bg); border-radius:10px; margin-bottom:14px; border:1px solid var(--border); border-left:4px solid #ccc; overflow:hidden; }
+  .stripe-high { border-left-color: var(--high); }
+  .stripe-mid { border-left-color: var(--mid); }
+  .stripe-low { border-left-color: var(--low); }
+  .company-head { display:flex; align-items:center; gap:10px; padding:14px 16px; border-bottom:1px solid var(--border); }
+  .company-name { font-weight:700; font-size:15px; }
+  .company-cat { color: var(--text-dim); font-size:12px; }
+  .badge-pill { margin-left:auto; font-size:11px; font-weight:700; padding:3px 10px; border-radius:999px; color:#fff; }
+  .badge-pill.badge-high { background: var(--high); }
+  .badge-pill.badge-mid { background: var(--mid); }
+  .badge-pill.badge-low { background: var(--low); }
+  .badge-pill.badge-own { background: var(--accent); }
+  .stripe-own { border-left-color: var(--accent); }
+  .company-body { padding: 6px 8px; }
+  .item-card { display:block; padding:10px 10px; border-radius:6px; text-decoration:none; color:inherit; }
+  .item-card:hover { background:#f8f9fb; }
+  .item-title { font-size:14px; font-weight:600; margin-bottom:3px; }
+  .item-meta { font-size:12px; color: var(--text-dim); }
+  .empty { padding:14px 12px; font-size:13px; color: var(--text-dim); }
+  .why-line { padding: 4px 12px 12px; font-size:12px; color:#7c3aed; font-style:italic; }
+  table { width:100%; border-collapse:collapse; background:#fff; border-radius:10px; overflow:hidden; }
+  th, td { text-align:left; padding:10px 14px; border-bottom:1px solid var(--border); font-size:13px; }
+  th { color: var(--text-dim); font-weight:600; background:#fafafa; }
+  tr.archive-row { cursor:pointer; }
+  tr.archive-row:hover td { background:#f8f9fb; }
+  h2.section-title { font-size:16px; margin: 28px 0 12px; }
+</style>
+</head>
+<body class="mode-domestic">
+<header>
+  <h1>InfraEye·BigEye 경쟁사 레이더</h1>
+  <div class="updated">마지막 갱신: 2026-08-24 (KST 09:00 기준)</div>
+</header>
+<main>
+  <div class="date-tabs"><button class="date-tab active" data-date="2026-08-24">2026-08-24</button></div>
+
+  <div class="subtabs">
+    <div class="subtab active" data-panel="domestic">국내</div>
+    <div class="subtab" data-panel="global">해외</div>
+  </div>
+
+  
+    <div class="date-panel active" id="date-panel-2026-08-24" data-date="2026-08-24">
+      <div class="chips"><span class="chip">#단순</span><span class="chip">#탐지</span><span class="chip">#넘어</span><span class="chip">#자율</span><span class="chip">#방어</span><span class="chip">#이글루</span></div>
+      <div class="domestic-content">
+        
+      <section class="company-card stripe-own">
+        <div class="company-head">
+          <span class="company-name">티사이언티픽</span>
+          <span class="company-cat">자사</span>
+          <span class="badge-pill badge-own">자사</span>
+        </div>
+        <div class="company-body">
+        <a class="item-card badge-mid" href="https://news.google.com/rss/articles/CBMic0FVX3lxTE04bUJMWnlFTUMtOUNEUkhxTWRnZDhGX1l6OURmdDE4eFRlRVRBUTdQLXIwRFBYS2RwR0VELVB5YkZrUFNyNGJaRC1mSXlSS3BRbnhrTS03dmtCSmI0ejBfczhzY2hxSV9KY01VeVRoaFFaaTTSAXdBVV95cUxPR2NJMlBTaTFfTllRWkpVdnRqal81ZlBDNlR6R29qdnNmRXRFUFR2ZXh3RGd5UEFKTF9JSzJjM2dlcWQzZkZGQ3ZOT3g5bDlCT0pvOTNHaWJlMEM5WlZZZk40R09GazRlOWZjbHJwYjlPYVRGU3JTUQ?oc=5" target="_blank" rel="noopener">
+          <div class="item-title">티사이언티픽 주가 불기둥…가상자산 관련주 매수세 대거 유입</div>
+          <div class="item-meta">핀포인트뉴스 · 2026-08-24 · 최근 소식</div>
+        </a>
+        <a class="item-card badge-mid" href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE83T21zazJqNFhQeUM1WTB1alB4LWItLWs1Y2tTTEZXQW5QdEljYS1LZ2l4b1lLd1lqVGZVSENjaVRaZkVUU1dRRnlaaENaMEhDd1k0?oc=5" target="_blank" rel="noopener">
+          <div class="item-title">티사이언티픽, 비트코인 강세에 '빗썸 지분 7.17%' 부각</div>
+          <div class="item-meta">네이트 · 2026-08-24 · 최근 소식</div>
+        </a></div>
+      </section>
+      <section class="company-card stripe-mid">
+        <div class="company-head">
+          <span class="company-name">이글루코퍼레이션</span>
+          <span class="company-cat">보안관제·SIEM</span>
+          <span class="badge-pill badge-mid">MID</span>
+        </div>
+        <div class="company-body">
+        <a class="item-card badge-mid" href="https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rdnVMdVpMQ3d5cUU0Ty03NFVreWVJLVlicVlrZmwwMkU3RjVnbkV5ejFNdVhTYmpMNl84YXpNZ1A2ZDlNbW5HdmktNi1UMkR4dVdOemY4NVVfVjdNYjJYZ9IBeEFVX3lxTE1tUFd1WmY3QjhDZXItRllqeVFKakx0cjRYLWNZclNmNFVTcHJKSmpXazcwV0JCMGxSTk9KUmo5bUYyeU56eGgzVDJWMHFaY0hwdFNEbm5JZVFuTml6OFpWd05ia1RNOTE3a01uQW1QN1pERzI1RHNZaA?oc=5" target="_blank" rel="noopener">
+          <div class="item-title">단순 탐지 넘어 '자율 방어'…이글루, AI 보안관제 '속도'</div>
+          <div class="item-meta">뉴시스 · 2026-08-24 · 최근 소식</div>
+        </a></div>
+      </section>
+        
+      </div>
+      <div class="global-content">
+      <section class="company-card stripe-mid">
+        <div class="company-head">
+          <span class="company-name">Datadog</span>
+          <span class="badge-pill badge-mid">참고</span>
+        </div>
+        <div class="company-body">
+        <a class="item-card badge-mid" href="https://news.google.com/rss/articles/CBMimAFBVV95cUxQcm10UTZoUlVJT21uUm1IR0JqQ0V3al9HbUN4TDU4d1l4a1NxWnN4dkc5U0dYNV9XOEtGQXhjTzRXMWVwcExzOHRwMkZtRVlyVFhqMFhkUjdjRDBnTXdiY0E0OEM5bEtlRGVTR3lHYTN1aV82UEtwQzVOU2ZKN3Q3TjViRHc3ZEVwTklxR25ZNzMtc2lxYUVJZw?oc=5" target="_blank" rel="noopener">
+          <div class="item-title">Nobody in the Room Can Say What One Successful AI Outcome Costs</div>
+          <div class="item-meta">CDOTrends · 2026-08-23 · 최근 소식</div>
+        </a>
+        <a class="item-card badge-mid" href="https://news.google.com/rss/articles/CBMilwFBVV95cUxQaktWOHBrbE1lTjlQOHI4aHYwWDE3NHJWY2tLd0NuTkJEUDFXeUhhUXU2dENqZ1NQTzJzOERqTzJnelZwZ3VwNndya0dOZ0hCSzgzVXhLUU5hbDV1ekpVVnFRMThyTGJjZDFhcGVtZFY2SF9mRXl2ZlgxRHNwWngwRmgwTFJRZ0dGNk4zRzIzUEpWbjZ3TGVF?oc=5" target="_blank" rel="noopener">
+          <div class="item-title">Datadog (DDOG) Rides The AI And Cloud Narrative, Is The Stock Fully Valued?</div>
+          <div class="item-meta">Yahoo Finance · 2026-08-22 · 최근 소식</div>
+        </a></div>
+        <div class="why-line">※ 왜 중요한가: (다듬기 단계에서 AI가 채울 자리 — 지금은 목업)</div>
+      </section>
+      <section class="company-card stripe-mid">
+        <div class="company-head">
+          <span class="company-name">Dynatrace</span>
+          <span class="badge-pill badge-mid">참고</span>
+        </div>
+        <div class="company-body">
+        <a class="item-card badge-mid" href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNMEt0YmF4b3I1MG9iTmgwdWhfckc5NW1BaW0zODRwb2Q2dmVKZms1R2hHZTFESjlGR1FNTW1pRE1FYmVOaWdobF9vbDkzZmtMODNINzNmTjVndTVGNlloei1DdkhRTy1sMFRTczMxUjVBUzJVaWcwRkR2UFdfaFpiNEtBdDV2RHRLSU5kV2Z6eXMzQmUyeE1oZ213RUxndlNBTVNQU2hLdFgyX1d2cDJWcXZ4TVc?oc=5" target="_blank" rel="noopener">
+          <div class="item-title">Scotiabank Has Negative Outlook of Dynatrace FY2027 Earnings</div>
+          <div class="item-meta">MarketBeat · 2026-08-24 · 최근 소식</div>
+        </a></div>
+        <div class="why-line">※ 왜 중요한가: (다듬기 단계에서 AI가 채울 자리 — 지금은 목업)</div>
+      </section>
+      <section class="company-card stripe-mid">
+        <div class="company-head">
+          <span class="company-name">Splunk</span>
+          <span class="badge-pill badge-mid">참고</span>
+        </div>
+        <div class="company-body">
+        <a class="item-card badge-mid" href="https://news.google.com/rss/articles/CBMilwFBVV95cUxNemlpWDh3Wi03bkxoYmJLMEFUQVJBNl9yTnlKRXhqS3BjOVkxd1k3MUhfcmF3Z1lUcFZfczRSank4X1hmME1JeUFnSGVhdFZJSUhVd3hUbjRTeklUTE5LeHVTc3VvaGF1c2ZELURfV1c3UkhPNU9UeDFxTzItRGdEWGdZT3FrR203OE1oMEdRdjRPaWZ6WHRV?oc=5" target="_blank" rel="noopener">
+          <div class="item-title">CVE-2026-76404: The MCP Security Wave Reaches Enterprise Infrastructure</div>
+          <div class="item-meta">forkast.news · 2026-08-22 · 최근 소식</div>
+        </a></div>
+        <div class="why-line">※ 왜 중요한가: (다듬기 단계에서 AI가 채울 자리 — 지금은 목업)</div>
+      </section></div>
+    </div>
+
+  <h2 class="section-title">최근 30일 아카이브</h2>
+  <table>
+    <thead><tr><th>날짜</th><th>최근 소식 건수</th><th>상태</th></tr></thead>
+    <tbody><tr class="archive-row" data-date="2026-08-24"><td>2026-08-24</td><td>1건</td><td>수집 완료</td></tr></tbody>
+  </table>
+</main>
+<script>
+  document.querySelectorAll('.subtab').forEach(tab => {
+    tab.addEventListener('click', () => {
+      document.querySelectorAll('.subtab').forEach(t => t.classList.remove('active'));
+      tab.classList.add('active');
+      document.body.className = 'mode-' + tab.dataset.panel;
+    });
+  });
+
+  function goToDate(date) {
+    document.querySelectorAll('.date-tab').forEach(t => t.classList.toggle('active', t.dataset.date === date));
+    document.querySelectorAll('.date-panel').forEach(p => p.classList.toggle('active', p.dataset.date === date));
+  }
+  document.querySelectorAll('.date-tab').forEach(tab => {
+    tab.addEventListener('click', () => goToDate(tab.dataset.date));
+  });
+  document.querySelectorAll('.archive-row').forEach(row => {
+    row.addEventListener('click', () => {
+      goToDate(row.dataset.date);
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  });
+</script>
+</body>
+</html>
