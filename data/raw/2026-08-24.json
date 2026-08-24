@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "collected_at": "2026-08-24T06:45:56.868218+00:00",
+  "collected_at": "2026-08-24T08:29:32.866431+00:00",
   "recency_hours": 48,
   "domestic": [
     {
@@ -189,6 +189,13 @@
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sSHQ2ZDQtMkw3VkItRTNid2w1MmpscTFRbGtLMzdncVNZQkVwQjQxeERZRzA1ai1ielgwQjVaZHRJMFdRSmZUVU1LRS1YZXRsNXFmMlhmZU5PWlNoeUV6NHlQeEpXcFph0gFsQVVfeXFMTllsclUwaU5PcUxzNmpGZTlHcVdZUDlmTXdRcTdxV3M3ZlRST1JYR24wSWdZUDNFRHpiTlY4X0J0YW4yTk1IbXVjWm9iYTkzY3lKWjVFVG1XR0QxX2tTa0ZlWk1ndjViSjVGS1R1?oc=5",
           "source": "정보통신신문",
           "pubDate": "2022-12-15T08:00:00+00:00",
+          "recent": false
+        },
+        {
+          "title": "브레인즈컴퍼니, KB저축은행에 차세대 IT 플랫폼 구축",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwc0JsOURPQS1NRzgzZWdfTEZwZGFHN1lvZk1BNGdkUnhIeV9oa2pmVXpQSUI1LVlpbnRmbklWckV3Zk56bTVXdnV2dEhMN0tTY1Q5RndtaF85eGlKMXdMUNIBeEFVX3lxTFA0TnlVSlpTNF9CMVhCSzZsbkR3dUpNLXlBOXBlaU9wVHptWW8tbmJoam9OQWxBWGdia1VTaUVKZTdNQjV2bkxneVFCdTlUZkNRbTBBZEZ4MVhuU21id204a1VhT21Vd3lHcnJDUUhQcGpPcjhhcUp6UA?oc=5",
+          "source": "뉴시스",
+          "pubDate": "2022-11-03T07:00:00+00:00",
           "recent": false
         },
         {
@@ -439,7 +446,7 @@
         },
         {
           "title": "로그프레소, RSAC 2026서 ‘외산 윈백’ 성과로 글로벌 MSSP 시장 정조준",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45N3JvUlZNLTRjLS1zUzJsQUd3dFlDUG1zVC1DMWphaHpTbjViVmVlM0pFSG1Ga25OOEhJLXpEYzlZa1FxVjF2MHZqTTBFVVN3YVRaSFd5WHBWMldXX2RSVFRLUVJualFrM2c?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91c3M1VmYwSFY5T25PNktINHlxdDlXeFpSMzVlN3IwYnNZSlRreFdtSVZENWc1WWdhM2dfOGdFQ3VMVklLQU43R0JOc0p0RVZpOUtaTVY4WklNWEx2emRIRTFiM1dQSjZ5bm9n?oc=5",
           "source": "보안뉴스",
           "pubDate": "2026-02-23T08:00:00+00:00",
           "recent": false
@@ -603,13 +610,6 @@
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUER2MjZPWmY1ZmtTblBRQWdpbHhNazB6QXg3blpUbFNLUFI4cjlndGZhMi0wNFB3Qlp0TjRHYkU0XzdJcGZOTnE0RnRiOXlvbHd6Qk9DQzN5Z0RORHRwN1lMTmYycGIyOFBJbGozYS1tc3Z0dTVXUmQ3MW1ZUWZCWk5vbEpRbENl?oc=5",
           "source": "Logpresso",
           "pubDate": "2025-01-23T08:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "로그프레소 CTI 리포트_Vol.10",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04czhYNGVNSllaWXd3TVN0QjN6b1M2bFJSNHl6LVZYTXJCRUY5azdQV19namZMbW9TREo5RW95TmxRbGYyN3dGbGZjQ2o1ZDd4THppTDYyZ1JLY3piTC1aZ2ZLcXp2cGxq?oc=5",
-          "source": "Logpresso",
-          "pubDate": "2025-01-13T08:00:00+00:00",
           "recent": false
         },
         {
@@ -963,13 +963,6 @@
           "recent": false
         },
         {
-          "title": "로그프레소, 'AI 위협헌팅 기술' 특허 취득… AI 보안관제 시장 입지 강화",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BS1ZLY0RsOTROTEZIeEN3WmVsN1pFakJsY2c5S0QxVlplTW0taVI5NmpCSDhwaVNIMzB4NU9FalctNlRLVmw5TzdLQXJnMTVvVlA2YzZ0cDVldkZOajQ5NkxPSHNzN2o0TkFYdmYxNXU2STRBTnBZaEVxLWRSdU0?oc=5",
-          "source": "Logpresso",
-          "pubDate": "2020-04-22T07:00:00+00:00",
-          "recent": false
-        },
-        {
           "title": "로그프레소, 아이티윈 손잡고 통합로그관리·통합보안관제 공공시장 확대",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrd3k1SG5feDYzalZqU0ZsWmI4cjhyNGdEdnFjaE9FQUhMdDlQcnkxUWVUQnFZb2w1Vk5fdEhnb3RBRS1hTlAzLVlycnJRQXdULVBSRnRuQzFfTGgzMTUyV2ZQQ0hvQVVPRWpWYW5KcjZfNmkzSDUyWQ?oc=5",
           "source": "Logpresso",
@@ -991,6 +984,13 @@
           "recent": false
         },
         {
+          "title": "이디엄, 빅데이터 분석 솔루션 ‘로그프레소’ 조달청 나라장터 종합쇼핑몰 등록",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rMnFzS3JrYzFRSHFpcEJCRmRPeG5jd1F3bmtpVUFUdnNyQmtMSXZXQWtnSFlMZGJxTmVucnJsZ2ZQcUd4T0k1cjNUNE1aRG9HRFFrSTUweU1PQjR6VExXR1hrNnpSNlh5d0NYeW1SQXQ3NkxiZ191WjZVNEo?oc=5",
+          "source": "Logpresso",
+          "pubDate": "2018-06-22T07:00:00+00:00",
+          "recent": false
+        },
+        {
           "title": "\"빅데이터 분석 속도 최대 100배 빨라져\"",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11Z2ZlelVXenV4YVRWbmRjZTEwME5DejZZeFZFR05tQnZ5R3U3bFZlU0FmLW8wOGxIQWIzVzk4VndqYVB6OXgyMzlLSXJIYkVqWFFYLUhhMVJDV2dGdXN0UTVYZzlVQlh3VVE?oc=5",
           "source": "Logpresso",
@@ -1002,6 +1002,13 @@
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TaEFmM1RGLUEzMjNmMEp4bUkzNU9JM1dVZWdoTC1mWXBvTTBhVU1BbGJWUUtwdGRxaURSOVNjSzJVakdvb3hlb3ppZ01KSEdTb0JsWHdWM0g1d2dieExRWUZYTEZvaFd1WmJweTFEZWJQMnJhREpHbm5B?oc=5",
           "source": "Logpresso",
           "pubDate": "2015-10-28T07:00:00+00:00",
+          "recent": false
+        },
+        {
+          "title": "3일 걸리던 일을 순식간에… 토종벤처 해냈다 | 로그프레소",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNclNyWHM0bGZoeU9RVFhsWl9vX2hWWE5vWTlxY2Jwb1ZnNjVnLTZweEZ1YTdRSk9vUkxoYXRrVEgtRXVHVkZFZGhHQ25DZlV1T0EtVXhFLUJWOVdrd2tXemdIdUNSalB3RzV6eUFiNGJxZzZicmJQZ2poeFcxYlRudw?oc=5",
+          "source": "Logpresso",
+          "pubDate": "2014-06-23T07:00:00+00:00",
           "recent": false
         }
       ]
@@ -1171,6 +1178,13 @@
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMaHpVcG5EZmxkM3dpSTE1eHBxaXNNQmtSdUlVUmhYWE5wdmdFM25OX1M2aGtCMGFrT3NiY25rMkpXNTB3V3Izb2FoS0RHNWY4MWY4eWRDZ3VkeWdhUlVBLWRMYk84YjRBeDZz?oc=5",
           "source": "데이터넷",
           "pubDate": "2012-10-15T07:00:00+00:00",
+          "recent": false
+        },
+        {
+          "title": "파이오링크, 진보된 웹 보안 기술 특허 등록",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYT1VjU05HS2NZS19vdjlnLVItem1xQUMwcVRlYlRmNm9SV2pLSldWdnhmbGFCVUpMc0ZkUHBtLWRsdzBQR2p0UkRZY20wNl94R2JxMXlweDZFMGwwOE1FWjRiN0M1Z3dVV1E?oc=5",
+          "source": "보안뉴스",
+          "pubDate": "2011-08-25T07:00:00+00:00",
           "recent": false
         },
         {
@@ -1526,13 +1540,6 @@
           "recent": false
         },
         {
-          "title": "이글루코퍼레이션 보안 AI 에이전트 `AiR`, 한국표준협회 인증 획득",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YYmFsOEFuV3g4T0FWVXhZUmVweldGdDlYb1pHSkcwYlJEOGF5akgwdFdYcmF0c1huaG9UdmxUc3c2LWhWLXVIaWs2Z3pCWDF5bl9SOUlZaGhlMHdhUzNvYU9kQ2w5TG8?oc=5",
-          "source": "디지털데일리",
-          "pubDate": "2026-07-20T07:00:00+00:00",
-          "recent": false
-        },
-        {
           "title": "이글루코퍼레이션 '에어', KSA AI+ 인증…에이전틱 AI 신뢰성 입증",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9POENDX3BnTmZMX3QtZVNqMkk3VFFhM1F2cHZtR3h4MEUteE42czVtU3FhcTJfY0c1bWdORkNoZUVZMmUzalkyM3FSMTZ6bFJrN3lCRWNabG1FTXhyMDIwX1d1UnFfOFZ1?oc=5",
           "source": "테크월드",
@@ -1785,6 +1792,13 @@
           "recent": false
         },
         {
+          "title": "하남시, AI 보안 대장주 '이글루코퍼레이션' 품었다",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlZGtIRGc3ZV9EeGFtSmNMNzBiNklqZkQzaUdQVXdpNzI5NnVqMHYyM1ZnNFlvdTIycm14MWZlbkNOMmhpaHppQUt4UHB1bmtjRU1XVDhEV0tLR0ZJZWdieg?oc=5",
+          "source": "아시아경제",
+          "pubDate": "2026-03-12T07:00:00+00:00",
+          "recent": false
+        },
+        {
           "title": "'이글루코퍼레이션' 품은 하남시…본사, 위례신도시로 간다",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yY0UxdDMyUjlJMXVaYm5Xc2NRNDA0bVRudXdGN2lDRURRWm1UdWx4WmJkcFZ6MHQ1TFhFX1JGSFEzZmtkdUthQ2VOeS1oM2JnSFg3RlJTSlR3LURsQ3R4TdIBeEFVX3lxTFBVTGtTd0Q3TTk3enhhanBva3FDZEpvMFRhZzd4dXNnNmZPa3VINGJxUnFITWRLWEtremFudFMwaDBULUMyQlJrM3J6bG9lU3VQQ1dBS3FadExtcDgxOGM5dHVEcXoyZ1V6N0xqLW5zNXd3b1ZkdkMtNQ?oc=5",
           "source": "뉴시스",
@@ -2009,13 +2023,6 @@
           "recent": false
         },
         {
-          "title": "이글루코퍼레이션, ‘2026년 사이버 보안 위협 및 기술 전망 보고서’ 발표…“AI 공급망 공격·국가 사이버전 고도화",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RZlIzMGNCaW81QjhSVlQ2c0t5NG1MNnVaOXJuVzNIejBpWmVVSUNNMkdyenZyZTltWHJSeWVvSGRjanladG84eXdNVFBoNkotYlkyb0JlNTBYekxKcGRndVBTbFJ1MDNubG85eA?oc=5",
-          "source": "데일리시큐",
-          "pubDate": "2025-12-04T08:00:00+00:00",
-          "recent": false
-        },
-        {
           "title": "이글루코퍼레이션, 도로교통 암호화 트래픽 합성 데이터셋 개발",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rdnlBR3RZQk9hRlBndmpXazRkaW9sYW05OEM0dEdSMTV0RTNsMmVfZjVkUlBGelQtbG00Qk9sZ1htUHdOUmtoOWZGY3p2T1cwMzM1djRNOHNYSG5HNW9yWGxSN2ZER0N3UnpaemdMR03SAXRBVV95cUxPSDNod1N2OXVGY0pCUkdhX0JPdF9qNmZKaU5XQjJ2cVRleXNlOE9uaWgtLWZnOG83ZkxxT2F2Tld2TVZHSE4yclYxSldwczhfYTFmSjhrU2FSZS1YMlhqU205b2RxTmdMeDJ2a05DMFVMd2tiNw?oc=5",
           "source": "IT조선",
@@ -2102,9 +2109,9 @@
         "recent": false
       },
       {
-        "title": "티사이언티픽·퓨쳐시스템, '양자보안 동맹' 출범…PQC 전환 시장 공략",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43T3NhODNlUExQdzZ2blVvN3ExTTNfNzR2X0RmalBYRlhWTHRGZ2pSdHB1YklhRlZLTVA5Nk84WjBXb0stUFlEZEFZcGhZSHktNEVxeWlQeTlWN0ZaNGFBOQ?oc=5",
-        "source": "아시아경제",
+        "title": "티사이언티픽·퓨쳐시스템, PQC 보안 시장 공동 공략",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52TGY2SjJuUmx3bmRITmZxZlNpaGY5V2tBZGZNVXRpQndZWU55bzh5WHV1OEtrOV9KRUdrbktPaTdoYUd1ZjVRTmV1MmIzZVVy?oc=5",
+        "source": "톱데일리",
         "pubDate": "2026-08-13T07:00:00+00:00",
         "recent": false
       },
@@ -2112,6 +2119,13 @@
         "title": "티사이언티픽, 퓨쳐시스템과 양자보안 동맹 출범…PQC 시장 공동 공략",
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxTEY2TDZlWmtpS1Jnd3dpcXNsVmtwVEg5VHFRS3p5dW1DcVRFQjhiQVAzY2RneDdvaTV2cVFmNHNjOXBYMzZsLUJWemJoVEU?oc=5",
         "source": "v.daum.net",
+        "pubDate": "2026-08-13T07:00:00+00:00",
+        "recent": false
+      },
+      {
+        "title": "티사이언티픽·퓨쳐시스템, '양자보안 동맹' 출범…PQC 전환 시장 공략",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43T3NhODNlUExQdzZ2blVvN3ExTTNfNzR2X0RmalBYRlhWTHRGZ2pSdHB1YklhRlZLTVA5Nk84WjBXb0stUFlEZEFZcGhZSHktNEVxeWlQeTlWN0ZaNGFBOQ?oc=5",
+        "source": "아시아경제",
         "pubDate": "2026-08-13T07:00:00+00:00",
         "recent": false
       },
@@ -2127,13 +2141,6 @@
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kZTZsZmpoYzl2VUplU2c4OFhjbkxHTWZUZnBkdHVUbldhU3ktU1RBVGRuNjVDeTNGWnQwLURqTFJ0UGRxeUMwVFhPcTJHLVJLazdiSTZNRTRDY210RWVxSVNNSEduSjNV0gFuQVVfeXFMT0gzS011dEhQdGVXdm9PRm5JOFVoUG9odk1OTzRnT2xxUjF0UENPR3d3V2I1N3BUN0lIaXBvQW9lTXpjQ1pDTGVfeUFEU29yQkhldUNVTFd0NWpQbHNjWXVVU3JaeWV1X0JRVEtVQ3c?oc=5",
         "source": "머니투데이",
         "pubDate": "2026-08-13T07:00:00+00:00",
-        "recent": false
-      },
-      {
-        "title": "티사이언티픽·퓨쳐시스템, PQC 보안 시장 공동 공략",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MdGowM2tlUmU1RVY3Q0RBTDVLaGRIX1J3dV8tLUV5LUxFb3lwRkI1ZDFETG1xQVNIZWlQbzdFZzRPX0VadVN5QTEtTWxidmlIcXVmLVNDRjBYZUxrcnBjUHQyQQ?oc=5",
-        "source": "톱데일리",
-        "pubDate": "2026-08-13T02:01:00+00:00",
         "recent": false
       },
       {
@@ -2291,13 +2298,6 @@
         "recent": false
       },
       {
-        "title": "\"클라우드 IT보안 시장 공략\" 옵스나우, 티사이언티픽과 MOU",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FSFZkYUg2ZHB6SURTT1otQWRGbUR1aGw4WXpuYVJTX0RhRUN1d3pWRFd6bkVvb0lhYVdrUktLVHhxNERlQUVKSFlNRjJ2MnZabGlxczU0MmJtNzc4ZDZ3Yg?oc=5",
-        "source": "네이트",
-        "pubDate": "2025-04-09T07:00:00+00:00",
-        "recent": false
-      },
-      {
         "title": "티사이언티픽, 파트너스 데이 성료…“사업 확장 속도”",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8wNGJlRjFmdjBMcnZDa2FBZHZ1UkZPVDdseVMxWUZZNUtFWkIwN1MwRFl5cGloaFhkRHF3b1IxVjhXMGM4S3RwNGdBdWktU1cxdGVKYU5uTjlHQy1EMU44d01n?oc=5",
         "source": "아시아경제",
@@ -2431,13 +2431,6 @@
         "recent": false
       },
       {
-        "title": "'업스톤' 선보이는 티디유크로싱, 티사이언티픽과 기프티콘 핀테크 협약",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOXdYV3lsR2pZT0dLdkdnVHFqWXY3R2Z3a09ROFVvR3kyWHlBSGFNTUhxRlc1Y0lvQnJuaFpsTkp0TWV0bHU3ZC1ZejJfRExxbWpKZnZZWGhuVkN2cjk0WjNXdEc1R3ctRHNTOXE1eDdIb2pEZ01lM2tGZ20tZFBGTVRIdjQyME0?oc=5",
-        "source": "모바일한경",
-        "pubDate": "2023-10-11T07:00:00+00:00",
-        "recent": false
-      },
-      {
         "title": "티디유크로싱, 티사이언티픽과 '업스톤' 모바일 상품권 핀테크 업무협약",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iU3gyUkVZRkZqSkRUQ2VUa3JpV2d0MWk3dE94alJtR1NKd0lZUGU2cnh6RjNRd3l2dGZBZVBYeUpVekt3YzdNNEh5cGNRS3ZZNHBaR1hYcXpkLXhCUDVWTm9QQkJvVHhoVlNv?oc=5",
         "source": "서울경제TV",
@@ -2445,16 +2438,16 @@
         "recent": false
       },
       {
-        "title": "‘업스톤’ 선보이는 TDUcrossing, Tscientific과 모바일 상품권 핀테크 협약",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBUks2Q01iM0JLTENxcUZCeXJ1bWZEbjE2emhjSnRGSlVfVk9oY2dsQnptdTRRZGg0LTJQWEVlQVdTbzBjTUE2Mnl6UFJDVURGdFFLM21Md1ExZjJQMUZXM2g5b2NGRk5yckHSAW5BVV95cUxNMzNaTGMwbktDOVA5QTZYNmc0cUF2cHlXZmRNREt1SmIyaUIzZUNwcDlDZGs3bDA1OTBKTElLQ1JHOU40ZUtSdE9ZS3N5ckxvM29fdjJQelNmb3FhdEZZeGF2S1hqdkh3bFZwSlpXdw?oc=5",
-        "source": "르몽드디플로마티크",
+        "title": "보상형 길드 플랫폼 ‘업스톤(UP STONE)’ 선보이는 티디유크로싱, 티사이언티픽과 모바일 상품권 핀테크 협약",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKcVRPLUF1N0hYVkdFSlctdERDMFU5cHVCQ0s1V2p2a0pZOU5ZZ1Ffa0ZqYkZLVElyeS1hOFZ5aXhJTlFiUmd0NmltSVVJWWhUZDZzQjFqemlES0xnZjlxRXJjLWMtb3NhTEtTVmZ30gFyQVVfeXFMTS1RaU9weFY2YldkU2VtSGFLMkVYRDFWU2VmcFNLRVlTdzJUd3hqWFFSMWxSd0Qwb3owZzZzc0wySFdXSlZSeFpJOUl3WDdENU9xcWhXMGE5YUI4WE5TdGdDWnNDcERtMUV1UGd2bXpNUkdB?oc=5",
+        "source": "한국목재신문",
         "pubDate": "2023-10-11T07:00:00+00:00",
         "recent": false
       },
       {
-        "title": "보상형 길드 플랫폼 ‘업스톤(UP STONE)’ 선보이는 티디유크로싱, 티사이언티픽과 모바일 상품권 핀테크 협약",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKcVRPLUF1N0hYVkdFSlctdERDMFU5cHVCQ0s1V2p2a0pZOU5ZZ1Ffa0ZqYkZLVElyeS1hOFZ5aXhJTlFiUmd0NmltSVVJWWhUZDZzQjFqemlES0xnZjlxRXJjLWMtb3NhTEtTVmZ30gFyQVVfeXFMTS1RaU9weFY2YldkU2VtSGFLMkVYRDFWU2VmcFNLRVlTdzJUd3hqWFFSMWxSd0Qwb3owZzZzc0wySFdXSlZSeFpJOUl3WDdENU9xcWhXMGE5YUI4WE5TdGdDWnNDcERtMUV1UGd2bXpNUkdB?oc=5",
-        "source": "한국목재신문",
+        "title": "‘업스톤’ 선보이는 TDUcrossing, Tscientific과 모바일 상품권 핀테크 협약",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBUks2Q01iM0JLTENxcUZCeXJ1bWZEbjE2emhjSnRGSlVfVk9oY2dsQnptdTRRZGg0LTJQWEVlQVdTbzBjTUE2Mnl6UFJDVURGdFFLM21Md1ExZjJQMUZXM2g5b2NGRk5yckHSAW5BVV95cUxNMzNaTGMwbktDOVA5QTZYNmc0cUF2cHlXZmRNREt1SmIyaUIzZUNwcDlDZGs3bDA1OTBKTElLQ1JHOU40ZUtSdE9ZS3N5ckxvM29fdjJQelNmb3FhdEZZeGF2S1hqdkh3bFZwSlpXdw?oc=5",
+        "source": "르몽드디플로마티크",
         "pubDate": "2023-10-11T07:00:00+00:00",
         "recent": false
       },
@@ -2470,6 +2463,20 @@
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pcHI3LVU3d3RVR3A0NzJvaWs5ZEpnYTZfLUFBMlAxNUh6aFh2NlFZVFhKd1dobnN2ZnZzbE1xb3QtU3RQRVRRX2U5VU1tQU5QaWc?oc=5",
         "source": "서울경제",
         "pubDate": "2023-04-18T07:00:00+00:00",
+        "recent": false
+      },
+      {
+        "title": "1만원에서 2000원으로 추락...티사이언티픽 주가 반등 '머나먼 길'",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JY1UzUnVoTHFzNlluWDduZFZKcFdWWkdLUGRsRTlWZWptaDd5S0NsaDhhODZucGdjZTFHWklWdlRDZnB3Rm9BNl9DVVFZSWpicEljQ3ZiTVFCM1NvOHZjcFpLNnBEYWlRa0FSaDd30gFyQVVfeXFMTlFVM2ZuZDlFa2hvcFZCWUVfS1pmeGhjbHI3dGlLak9wdVExS0NaM2REOTBnMG5JdUZPdi1RQmNHQWtiQ2lZMGxRcWJzNmVKZDdBd2hPOGRvUXZQaXJDMVYzVk5RT3J5Sk54V3o1TXVINUFn?oc=5",
+        "source": "데일리한국",
+        "pubDate": "2023-03-30T07:00:00+00:00",
+        "recent": false
+      },
+      {
+        "title": "티사이언티픽, 아이티노매즈 흡수합병이 천군만마 된 까닭",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hQjdlRU9nOVdTLU82YWJUaFpPNEhQZDQ4WDBJTWV1UE5MSk5xNDU0dC1ESDVkMlZybmN6MkRZT3RUMFR6bFFtRVdjajQtQklHZF81RDNmV0NGd1hFQ0h4NDJzOGl4Rklw?oc=5",
+        "source": "ibtomato.com",
+        "pubDate": "2023-01-30T08:00:00+00:00",
         "recent": false
       },
       {
@@ -2633,6 +2640,20 @@
       "id": "datadog",
       "name": "Datadog",
       "items": [
+        {
+          "title": "Scotiabank Has Positive Outlook for Datadog FY2026 Earnings",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVFF5QVl3djlsWHZiMzRxY05mY1hLdklxUER0MlpwQWUwZXltUkM5YlVBc0l5ek45U2VwQkpjMEZZcDNXX3NTMHdxUi04NzluQlliLV8tVlB5MkQ1aXNuWUduWDFIZnJVR1VNb1FJYktxWkJEYmNxbTBPOHVLVmJxZVZCaUxJeU9LaDlkZG9rd0JXdm51VU9BWko5QW90dkFzaXcwQTB2bDk5Vk5fNXhpd2dSVQ?oc=5",
+          "source": "MarketBeat",
+          "pubDate": "2026-08-24T05:47:41+00:00",
+          "recent": true
+        },
+        {
+          "title": "Datadog (DDOG) Price: Finishes 1.32% Up at $235.62 in the Latest Reading",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQRnBzUDBlYm1kcFo4ZE9XX2ZrZHhnTTIwQ0poeXVHaklBRDRTTG1BRllFRG1na2hNRXRMWkRsTmVXNkNIUWwxSmg2dmRsSWdTcGdzaDd6SEF4OVBxX2h1QXZoX1M4R0dYRE5OZVBIR1ZQdE9Vb21nOU1oNzdDVEgxbDNlVk5VcEYwRGRtNk56dHFySDZIVms4ZUVzb2NqYjNEUW9YSGNYcE1LVjI2YjVxOHhmWFBaSEp3VDlLd2pfcVNsZTEwRXVUMFhEalhjZE9SeFlfVWFtemxwYVAwaFNETEpLZm5KbjVsWFdzYTVJWThyOWlUMVdKYzRfZFVkNUFB?oc=5",
+          "source": "vinanet.vn",
+          "pubDate": "2026-08-24T00:40:31+00:00",
+          "recent": true
+        },
         {
           "title": "Nobody in the Room Can Say What One Successful AI Outcome Costs",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcm10UTZoUlVJT21uUm1IR0JqQ0V3al9HbUN4TDU4d1l4a1NxWnN4dkc5U0dYNV9XOEtGQXhjTzRXMWVwcExzOHRwMkZtRVlyVFhqMFhkUjdjRDBnTXdiY0E0OEM5bEtlRGVTR3lHYTN1aV82UEtwQzVOU2ZKN3Q3TjViRHc3ZEVwTklxR25ZNzMtc2lxYUVJZw?oc=5",
@@ -2907,13 +2928,6 @@
           "recent": false
         },
         {
-          "title": "Datadog (DDOG) CTO Alexis Le-Quoc sells 53,912 shares after option exercise",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeEJjQWhEWlRqc2RSUWxZakE3Zl81MXZ2cVg3RW93bVpDdi1iMUVPVDhYQkRfMEZ5NHU1Z3A1czM2b0NFWE02VEpFV3JpYndnMVdHVmI4cTgyZVc4MW1xbEw0NGFHdVJuYjFpckJXTG1OR2NrSG0wQ1gxLXg0TmZINWVTeHR3YlRWMjg3STNFN04zcGNGeW5zb3A0dElWdEJ2YlM5TGpWRUY?oc=5",
-          "source": "Stock Titan",
-          "pubDate": "2026-08-12T07:00:00+00:00",
-          "recent": false
-        },
-        {
           "title": "Is Wall Street Bullish or Bearish on Datadog Stock?",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSFR6ZGhFZHJyNVBCTlk4dUhrX3hIcEN0OGdoVWxXOGlBbThZSTAxeE91bUtaVWdnLW91bUhWWUVRb1VDYW1JZm56ZWY2bXREWWpHcmFXalBsWUhLQ0tzX3JPN013MlZNZmFVWjFaZjVhNXkwaXlfYlNfb1NQWHRncWV3ekg2VUU5WllxWk9OekNpNnhhQzFNYzdR?oc=5",
           "source": "Barchart.com",
@@ -2963,13 +2977,6 @@
           "recent": false
         },
         {
-          "title": "Datadog (NASDAQ:DDOG) Trading Up 7% Following Analyst Upgrade",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOEFKczJkZGdXZGs4R21UT0xaZWVQOEhGYXhSaGhiOXF6NEJzRTF6c2ZVNGF1ejZOMDlPd3ZCV3QwTVNaS1ZZSmtTbjllR1I2LTR4REY1emxSR2haS0YtQXlxbFMzTlpJVUg3ZWZQTjk2RkRkQ2ZEZUIwd0pVMVU2OFVGOW1jZnFfWUp1ZjQ4amp5R0x5djU0T2dTaDlxTEhQQzR0OEF6ZU5VZ0k1bU8xUQ?oc=5",
-          "source": "MarketBeat",
-          "pubDate": "2026-08-10T07:00:00+00:00",
-          "recent": false
-        },
-        {
           "title": "Datadog coverage update: BofA stays bullish on weakness",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQk10T1JLcjNnMHFrY0k1aVRGaG1lZ0c5UjBQeFMzMEQ5NXZHOEFjTmVmenc1Q2lXVTFWWDlxNDNoYWZKNmZXWjVTaG5NekNrTEpIem9zNDVmbEhJak1jSEk3OGlKMkNfZFhNOGtId0dBMzIzeXh0dnkwRjB4ZFFNQg?oc=5",
           "source": "thestreet.com",
@@ -2984,13 +2991,6 @@
           "recent": false
         },
         {
-          "title": "AI Stocks To Watch Beyond Chips With Appian Datadog And Dynatrace",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRW5sYk10VlA2LWQ4eWJadGdqbmhzWHkyUXlnQldtUnVneEJrZzNURXo5bktjNGZrNFVBQ2x1UEhRajNSaGZMRE1zSDN6b004SVJNT1luTDNlYlB1Nm93SHlUZV9TMkRRTHBqUlVreWNQNW1QWHlSRnlDR2FYMS1idldJWF9VVlBSN2ltbVVlNGRPODZSQURpX3VFRzhFVVZ0WVUxNWtfejE5RUwyU2JZU2l3bHlWVGFmNHJUd2YyZTNkWTDSAcgBQVVfeXFMTTBBLXcxRWxoZFd2MWhHQzhZZGg1dVk3VTF1YThucUhiSE9Ubm5WdU9DYkVTWlhTN3V3NnpkeGFLSTJSUG1pSnVCOU9BMl9WZlBURS01VVphR1ZiRk1Ud2FxbG1CSElmLWxXTm8zcmxRRjBfck9NYW80UWk4aFBnblJUeFR1elBNRWo4QTRBMHllUGRnY3Q4Y0o1MnA5M0lLS3g3dzl5d1U2MWlKRThEbU96N3ZKQTBrUFdsSmFmTGNucDhabjlydEM?oc=5",
-          "source": "simplywall.st",
-          "pubDate": "2026-08-08T07:00:00+00:00",
-          "recent": false
-        },
-        {
           "title": "Datadog’s largest customer renews deal but cuts usage",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOVpSS21MWmFhQmRTLXBqbHN0dFE4Sm95aU1WMGVZbzVfUklpMUpteEtjSFpFeXJnb3VneE5OdlJNaXgyeUZUX1hEdWg5X0RHZHJRQnhRQkJQanF4NjFpSC1iUkh4cjFQaEdGUGZ6c2xZV0VnZFdlUnZlV3ZoZkFGYWw5R01TMlBQbm1hTTNDOFdQU3RuRWh6eG9Uaw?oc=5",
           "source": "thestreet.com",
@@ -2998,16 +2998,16 @@
           "recent": false
         },
         {
-          "title": "Datadog in the spotlight as Citi says buy the dip (DDOG:NASDAQ)",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZEdFS0xIT3RJdk5GbFBwLVlqTF9VbUZQQmNwVWtSLUVhdDRKX3R5eDlDanpRbDFRR0ozNTE0ZTlqdXZ6eHVjQ1p1OXRzc1M0SkRKUE9naGJ2LXFPNW10WjFlemhVQ3VEcGwxT3NXNXI1bWNiWUpFV2tyV0FydUc5NmRDQVVuZlpmVVRfdGdkaWs?oc=5",
-          "source": "Seeking Alpha",
+          "title": "Datadog (DDOG) Fell 19% After Q2 Beat and Guidance Raise - The AI Customer Cut Spooked the Market",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPS0ZIV2tJaHQtb3JiNlFwc0Q0UEM5MVV1czNqQURSaVBCOEZKcC00MlJjbGt2MlBzOVRvUloxOGN4bWlubk9nTXdCQ0JiSUxobHgyZFhRUkNDaHNYTVVjbnZmbzFRcE1rUVRFc0FzX0ROR09XSGVLcF84SHVIZ3ByT29TTHUzSmxvV3kyaW8xaUdvZ1RYTFVzc3h2VGxXTXpUWDY5Z3c2bEJOVGJSU3RGSVpsR2g0UEVlVE1yQjJTcTJtU3dCdUIza1RqVm8yMnJxN2FHSllUVXg?oc=5",
+          "source": "TradingKey",
           "pubDate": "2026-08-07T07:00:00+00:00",
           "recent": false
         },
         {
-          "title": "Datadog (DDOG) Stock May Be 22% Undervalued After Log Coverage Launch",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaURQLWhMa2tzLUo2aEs4Wkppc0N4VzE3V2ozTEIxcDlfZW9qTG8wZXpvWGNJUFpoNWlBMTJaYmZRaGdVRllSV01sOUdmZTllUEk5TTIyWEkyQW0xYTBNZWhhMDlWczJLSEpITHkzeERwLWRSSEF5M29VVWdwajQ5RGdvaVM3ZzR3UGhYcVBZZTlEd3NENXltblBVQ3YtLTVfZThOdjczRng1M2xwQ3VVVy0zaE1RNTF4NkZHTi1xWXFqQ1XSAcgBQVVfeXFMTXpEcDlSa25IN3ppRTBGeTVaV3FMaDdwSzYtV1FPUl9PTnJkbXZDbTlrMFhyWHFvR2VmXzVsRmV4Q1dFTmtUWWpoZkFzaWpCZWVjakJvN1FrWUZSN3FZMnBFaGZmamlxU3BpNjRYcUVDUFY5c25ZZDhWUzJNVE9nNnpKMUNNRWlJbFQ1MHlmWGdESmdqcmxKWXZhNTVaNW1reGxuSEEyQkRLbGZhSVpmY2tLdU53cVRMcE9YMlh0Ty05SndKWkJoT0M?oc=5",
-          "source": "simplywall.st",
+          "title": "Datadog in the spotlight as Citi says buy the dip (DDOG:NASDAQ)",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZEdFS0xIT3RJdk5GbFBwLVlqTF9VbUZQQmNwVWtSLUVhdDRKX3R5eDlDanpRbDFRR0ozNTE0ZTlqdXZ6eHVjQ1p1OXRzc1M0SkRKUE9naGJ2LXFPNW10WjFlemhVQ3VEcGwxT3NXNXI1bWNiWUpFV2tyV0FydUc5NmRDQVVuZlpmVVRfdGdkaWs?oc=5",
+          "source": "Seeking Alpha",
           "pubDate": "2026-08-07T07:00:00+00:00",
           "recent": false
         },
@@ -3033,16 +3033,16 @@
           "recent": false
         },
         {
-          "title": "Datadog shares plummet despite expectation-topping quarterly results",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdXdTQTcwTmx4SlYycUh3eldvU1V6SVhYa2xiY0cxc1BXXzhOZHhPUlBCUzVnVmRWLWJFTGpzMXgxbjc5MmpUei03Qlc2VXNaamNVNEFzalpJMnd4bXM2VFAtM1BUeTVidVVVOVNtMkcxX1licUdZWk9rOV9RQWdFNzA1THZGWG1VWVlMNmhCRmY5UXlsSi01SzNrNVEtRkhod2dvTFdLNzc?oc=5",
-          "source": "SiliconANGLE",
+          "title": "Datadog Beat on Revenue, Beat on Earnings, and Raised Its Outlook. The Stock Fell 19%.",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORjlaU042aHRRbGNQTXl2bFJYRzE4dUJxOWpRSmtyeUphOHV1ZWFrQ0VINGZrdllDUkQ2Q0Y0OUkwTlZnSGdSMmswRmRIaHFqQ2t5c25CZUdXYVhqMkRxd3pCOGRTZUdMb25aRE5oQ3d1YUxYNk1TT0RxME94UjNzdWx3aXlMWFJHeW8xcVE3dDFhOG9xZGJBMw?oc=5",
+          "source": "The Motley Fool",
           "pubDate": "2026-08-06T07:00:00+00:00",
           "recent": false
         },
         {
-          "title": "Datadog Beat on Revenue, Beat on Earnings, and Raised Its Outlook. The Stock Fell 19%.",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORjlaU042aHRRbGNQTXl2bFJYRzE4dUJxOWpRSmtyeUphOHV1ZWFrQ0VINGZrdllDUkQ2Q0Y0OUkwTlZnSGdSMmswRmRIaHFqQ2t5c25CZUdXYVhqMkRxd3pCOGRTZUdMb25aRE5oQ3d1YUxYNk1TT0RxME94UjNzdWx3aXlMWFJHeW8xcVE3dDFhOG9xZGJBMw?oc=5",
-          "source": "The Motley Fool",
+          "title": "Datadog shares plummet despite expectation-topping quarterly results",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdXdTQTcwTmx4SlYycUh3eldvU1V6SVhYa2xiY0cxc1BXXzhOZHhPUlBCUzVnVmRWLWJFTGpzMXgxbjc5MmpUei03Qlc2VXNaamNVNEFzalpJMnd4bXM2VFAtM1BUeTVidVVVOVNtMkcxX1licUdZWk9rOV9RQWdFNzA1THZGWG1VWVlMNmhCRmY5UXlsSi01SzNrNVEtRkhod2dvTFdLNzc?oc=5",
+          "source": "SiliconANGLE",
           "pubDate": "2026-08-06T07:00:00+00:00",
           "recent": false
         },
@@ -3173,6 +3173,13 @@
           "recent": false
         },
         {
+          "title": "BofA crowns monitoring platform top software pick before earnings",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV0oyOGtDNWdTNm41RVF1ZjR1VHNUbnpzS2swYjhyQXBFQzZ5amNnZWxWclNsQ2xsVkp4ZUN5Q2hjaWJDMzk2Z1dwRjg0QzVXWmd3SDNrS2RDaWJUTlhNaXZBc1ZfVzhfX0RYMjNsYmlxS3I3QlZVZ0tFc1M4elBERUdkTE4tYmFoZmJLeVdrNnl1Vlc4RGRNYS1nYXl4bGc?oc=5",
+          "source": "thestreet.com",
+          "pubDate": "2026-08-03T07:00:00+00:00",
+          "recent": false
+        },
+        {
           "title": "Datadog (DDOG) Rose on Accelerating Growth and AI-Driven Demand",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMFlhTE9kYWctU292YVo4cjVscVdxQzZoZmpLbVY1NFA5MXJpLU03N3BVbXJ2eGRqeWRuejcyU0JJSHZLSDczMk44bkIwNmlLWHMzYkFFZjdtSEhOU0U5aEdLZzYxVnhrRk1FeEVMbGwzbW5SalNpVXRTMHhpQ2diLUdBa09zZVY5WFg1SnphMjBxVTVUYXl1a0tSZzd6YWFSRnFIZQ?oc=5",
           "source": "Yahoo Finance",
@@ -3295,7 +3302,7 @@
           "title": "Nebius Cloud Logs are now available in Datadog: Trace AI incidents across every layer",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV29uNnk4ZXRpZGpWc19VU0NfdGxqbEtaaEF6d3hPZmtkZEEzWVZORkxhMjlXTlRPdDFzZzkxRHJ2bDYzbXlZOUVJdkF3WllXd0gzUVJ0RVliOWx3MVVxTVd1Z29ZTFF6Ml9QVWtJUnoxOHJZOGRCbEQ0S2daLURtalBlOWZIZw?oc=5",
           "source": "Nebius",
-          "pubDate": "2026-06-15T21:11:09+00:00",
+          "pubDate": "2026-06-15T07:00:00+00:00",
           "recent": false
         },
         {
@@ -3318,6 +3325,13 @@
       "id": "dynatrace",
       "name": "Dynatrace",
       "items": [
+        {
+          "title": "Bank of New York Mellon Corp Acquires Shares of 2,616,378 Dynatrace, Inc. $DT",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbktVR05MYXNEWDB0UEdOR25sTk9vZFJEdkdWbDBFS2dhcGVVOXp4Yl8tXzFneTA4RFRqaERjTG82ejJZWVhZYlRnRnNnN1BxbWJLdVRPSENYOElJa25KdkNMX3RaTVNaV1RobHVOclBYdWcyeWxoenNEeDdzWFA0SFRkQTA2TkpNODRuMC03RU55NXlTS1cwZG03SE1PSG5fOE03V242cF9XTFF4cVBoeUkyWnUzUUN5OFJycV8zLVY5MWFrZHNTN3FWUGE0UQ?oc=5",
+          "source": "MarketBeat",
+          "pubDate": "2026-08-24T07:50:15+00:00",
+          "recent": true
+        },
         {
           "title": "Scotiabank Has Negative Outlook of Dynatrace FY2027 Earnings",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMEt0YmF4b3I1MG9iTmgwdWhfckc5NW1BaW0zODRwb2Q2dmVKZms1R2hHZTFESjlGR1FNTW1pRE1FYmVOaWdobF9vbDkzZmtMODNINzNmTjVndTVGNlloei1DdkhRTy1sMFRTczMxUjVBUzJVaWcwRkR2UFdfaFpiNEtBdDV2RHRLSU5kV2Z6eXMzQmUyeE1oZ213RUxndlNBTVNQU2hLdFgyX1d2cDJWcXZ4TVc?oc=5",
@@ -3634,6 +3648,13 @@
           "recent": false
         },
         {
+          "title": "Dynatrace Buys US Startup Arize for $915 Million to Strengthen Its Position in the AI Race",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ySjYwNlZ3SUN0cWJHN29ndFdwcXpnTHRaQlNnYkhiWmJPRENnaUFOdEVhT1NkZXNpU0NuRFpYdHNSMm1TQk5ZU1B5OXM3Vno2NDVRRTVsTW1uUQ?oc=5",
+          "source": "trendingtopics.eu",
+          "pubDate": "2026-08-13T07:00:00+00:00",
+          "recent": false
+        },
+        {
           "title": "First Take: Dynatrace’s Intended Arize Acquisition Enhances AI Observability and Builds New Decision Analysis for AI Operations",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8ycGZWZnlyYUVSZGFueElpUlYwVnNQZmNybEdVTThpa19EWnBfcnZERHdEWXpuVzcxX25PT094Z29fc0lDdFc2R0xYbF9DbjU1Q1N6SXlUSQ?oc=5",
           "source": "Gartner",
@@ -3697,10 +3718,10 @@
           "recent": false
         },
         {
-          "title": "DYNATRACE ($DT) Releases Q1 2027 Earnings",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUjEwQVRLMlpUcUJFMnRvT3lNTEV4SGpGVUs0OThzVGN0UUhybGlMWWl4LWNFVDh5Tkl2Tk0zQUlxSlBfT2ZIc0l4TVZqdVNuZ2hEVXR1eGFhY0E2WVZMSVhjWHc4TkVjWFZOa1BIbmRDaUxtMmJWb3NPZmdUZHBEdjNQOWNjeTQ?oc=5",
-          "source": "Quiver Quantitative",
-          "pubDate": "2026-08-05T10:55:00+00:00",
+          "title": "Dynatrace, Inc. Stock 12‑Month Price Target Raised to $58.69, Implies 15% Upside",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZGVmalBPeUJJM3A1dlRQRXVRTU84Q2poTzVXUkZIUjlhTWFuUzdzZ0xJYUhzXzJVbC1TLVJQQVh3cGhjbERqdEl4Vy1NNjRkN1hLTVRQb2FsS1BKQUVMaDN0VTlxSnJINTNSdXIwV0w3UDdrUEZyaFBOc3dheXJ5LXNNTXNxRE5UcjVOZVVocW9wT2RINnpUSjk1OEt6dE9VUW12VjhUWm10VWNKM1QtUjdFTFN3TUQtQjQ4X0tpQzMza0hULWNwbmpza0p4UjBOeDJr?oc=5",
+          "source": "TradingView",
+          "pubDate": "2026-08-06T07:00:00+00:00",
           "recent": false
         },
         {
@@ -3799,6 +3820,13 @@
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVmFSNWlhdUU0SlRuQVRpNlNkVG03SWNKTTNKbWVBam1qeWFPUWRjTEFmbEgwVmlFc0ZuT0dMdlJPX3JpdW91ODhjWmtRcjdaSzFnRlczVVVzTms0bGhNeGVaTDl2TFA2WjlFQVJRRGhzTUlLV3ZEak9uOG9MR211ZGFZNG9TU2dubmNqbDVVNmRrQmgyaVFhUTNLUmdILUswZi1OeUdvTGJCRFNvXzFQc2tSYXYwZ1ZEa0RVeQ?oc=5",
           "source": "MarketBeat",
           "pubDate": "2026-08-03T07:00:00+00:00",
+          "recent": false
+        },
+        {
+          "title": "Renaissance Technologies LLC Reduces Stock Holdings in Dynatrace, Inc. $DT",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUnZab3hhdERmUlpfTEh3WnE1cjhQZE5pczNoVHVESFprM0xhY0N3VkFhT01VYl9RZEljVlpaMFhCQ1NUeklxUkt2YXNCODBRLXBEVzRQWWsxLUE0RTRHZ2tubDZ2LS1TZzB1dUNxVGFiZjMwdVZDV1lHVFcyQ0gzdjh2VlFuM1NIeUVOSXVvNHR0SnhCMVBmdDBOM1U2UVRtNVE4SU4xODVIZ3ZqTjRSUy1fOVZtRHJHOS1pTnNiY1BvVVpFQTNKYjMxb1A?oc=5",
+          "source": "MarketBeat",
+          "pubDate": "2026-07-30T07:00:00+00:00",
           "recent": false
         },
         {
@@ -3907,13 +3935,6 @@
           "recent": false
         },
         {
-          "title": "Dynatrace (DT) Targets FedRAMP High, Is The Stock Fully Priced?",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYWRZdldTVWJtczZNYW51eGtIYlBKSm9BZkkyRFAyMVM2ZVBzZDJDOGNuNHNOc21HdUNISzhPaU1lemgzSmNIN01qaXVqbHNSUTdaUXd5UlllX3cwREpDSFk3QU03Rmg4U2U1andaVThTODJvRVdJX2QycVZiREo4M2loLWVRMzVBbVU0bHlXVXlVR2lDcWtoSjN2RlF2NGs?oc=5",
-          "source": "Yahoo Finance",
-          "pubDate": "2026-07-07T07:00:00+00:00",
-          "recent": false
-        },
-        {
           "title": "Dynatrace Adds George Riedel, Dan Streetman to Board",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS0UzYks0b1hhWk95RUJGLUFHbndaYl9pTElZRW5zVEVaUDBZajZTeWNBN19vWFF5U09qanZBYzczbzFmUzVrOUdqM0drTDk0YkRJYVBJUWFQcTNJQjQ4QnVNWndYeWFvUU5RY1pZbS1EUXl2T2toYUFOb3E2X24yQ3FhTkJrVEtzRFBMU1dkT1BRcHlTY1AxYUt3?oc=5",
           "source": "ExecutiveBiz",
@@ -3970,24 +3991,10 @@
           "recent": false
         },
         {
-          "title": "Dynatrace, Paycom, and Zeta Global Shares Skyrocket, What You Need To Know",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbWt2MldRUDNFa0F6a05pVmxVaUNnaDVWdWVUUGlhbW00ODFYd1piYlp1cnhhaXNXVFl2alQ3MkNIRFpZMnFrc0hKX2ktMjY5VGJvLTZLb0hVMG9oa0otazdGTndzZFk2anNwQ3ZwaS1mSzBmWmZOajlXUWNPdmpuRWd4aWEwUnE1UDlpbkFzSWhpZHl3YUpYQUhTbDhwY2pKUmc?oc=5",
-          "source": "Yahoo Finance",
-          "pubDate": "2026-05-28T07:00:00+00:00",
-          "recent": false
-        },
-        {
           "title": "Why Dynatrace (DT) Shares Are Sliding Today",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVnRIYi1ULWllUmV4MDZBU3A4WXhhNXVLTFNBOXg0OWVZN1FYT0RGZnNCblI3cTNqR0JVcHQ5ZTJHN01nZ0thRDlpWjk5Qm1mSW1PdWlFWTExUHZGUmRxTkRpc0lfOVU1bHFUTl81U0VWWjdwLXVGMi1qdVVkS0YxNUt2VHNFOE0yQ28yTm8xTVhHdzNWSXJGTTZmT0w?oc=5",
           "source": "Yahoo Finance",
           "pubDate": "2026-05-17T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "Activist Starboard Value takes major stake in AI software maker Dynatrace, WSJ reports",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWi05Nlk5X2pTYkY0OVlKQU5PZjM0Q0VDbktIdkpJSlFhYXdXZm1ad2ZkQlR1WFR2R1Zya29oSGJkTWVRc28zd0hmRXo1d0xDakxBYzJySEVwYjZxa2psR21VSmR6NFV0cVpCbHl0a3VqcHczVnMwREFpVkhDZ21heXk4dVFzbGhzWG9TaHJTanBtd0NUeklkUTFMZGhkT1J4U2NV?oc=5",
-          "source": "Yahoo Finance",
-          "pubDate": "2026-04-27T07:00:00+00:00",
           "recent": false
         }
       ]
@@ -4004,17 +4011,17 @@
           "recent": true
         },
         {
-          "title": "Atlassian, Splunk Patch Critical Vulnerabilities; Immediate Action Needed",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUTVQc041dGRjQTlDdEdPWFpmWkVwdVk0Rnp5NHJ0d3VyV0hLckNQY1VpTzlXMVh3TFBITWYyX1RWd3VfdUtOUmFhLV9LcHhpT2Zrc04xazBsbkhuNUZKTkRER0ZPVXF6ck9YSFFVOEJ6UkROWnV4LUM3ZVVrMFpLZTZ4dlRwRnZHTW1aeU1qZ25JdEY0Z1hyUWdhY2VKQWNFUWFhbnphRHBWU3hKbC1VLXJJY3dUYVNKbmZJcmh3NWRfZ9IBwgFBVV95cUxPUTVQc041dGRjQTlDdEdPWFpmWkVwdVk0Rnp5NHJ0d3VyV0hLckNQY1VpTzlXMVh3TFBITWYyX1RWd3VfdUtOUmFhLV9LcHhpT2Zrc04xazBsbkhuNUZKTkRER0ZPVXF6ck9YSFFVOEJ6UkROWnV4LUM3ZVVrMFpLZTZ4dlRwRnZHTW1aeU1qZ25JdEY0Z1hyUWdhY2VKQWNFUWFhbnphRHBWU3hKbC1VLXJJY3dUYVNKbmZJcmh3NWRfZw?oc=5",
-          "source": "TechGig",
-          "pubDate": "2026-08-20T23:58:08+00:00",
-          "recent": false
-        },
-        {
           "title": "Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZkJhRjBMcV93RmhyaU5ya2VLcVE0ZWdhU2JMWmsxWk92NGN2YTZjc0R3YWRTUkdhSFY0UzR5ZjlKU1EyelA0aV9FRmJPQkxaNkdkQUxJLUJLQWtUSWlEMmtDcjBaWGNjUU9idS1KV1VVVzdWSDFRR1dWOVdVTFNrYUppTjNEVkFtX0U3ajR2aWpUa0tUejhqd0pRNmNiV2VpTUhB0gGoAUFVX3lxTE5zVUhXamQ2VlhtejFJaXhYaUtvV0RyYThoTDBISXRhWkpQanhMN19tTXo0dEF2OXJqQTBhSTVIcUI1RUNjV3E4M2lrMVlRSkFBNUpLS3dGNGl5T2s1QTdqTjVZemkzRFg0WW9VNEVsNm43clkxQ2x4eHc1clRkdVNrWGdMa0RuaFctOGpJZnY3dXRFNGlUbWdVcmYyaWktMEh2QmhodUkzQQ?oc=5",
           "source": "SecurityWeek",
           "pubDate": "2026-08-20T12:24:53+00:00",
+          "recent": false
+        },
+        {
+          "title": "Splunk Fixes 17 Vulnerabilities Including Critical MCP Server RCE",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tRmQwOVBzUmczMEE2T2JleUY0UFVGRWZ0SjZMNzhPbmNKRDhSb3hlRVI3VVBUcHdLaHlYbDVRMGdwOFpIRmlrQ29LV1NoX3liR1V2WE9ONVNSbTMxMnhrOUZ4elfSAWpBVV95cUxQeElWTFlaOFFlRXN5MGFILVY5S1JJWGNTcDd0akgwcUZldXJLc255cHFNejg0U3YwUkRyZ2k0SGJucXlydGFCTGh1WE5rSHVUR2NUXzBoZXRHellZMGV3bHJ5Y1hyVkJlbkVn?oc=5",
+          "source": "gbhackers.com",
+          "pubDate": "2026-08-20T11:13:36+00:00",
           "recent": false
         },
         {
@@ -4368,6 +4375,13 @@
           "recent": false
         },
         {
+          "title": "Gigamon and Splunk Partner to Deliver Unified Access to AI-ready Distributed Data",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY0Y2Z2V1ZHhKVkJ1UWRKRWZGajdyeDRuQXZjVV9tQThka1BHeDY1MEdsZ1RjRGRlTThxOEtvS2ltMUpkaUVCQ2IzT1lyNGVGZlV1SXFRYng0YjVmbmxCZ3g0QjdRUGxGdmU3SGhHR00wU0J2bFh2ZTFFeUNveHBLM0tEVS1tTTlsVmtBMWZyTlZxTEdfbTg4M0RjcTR0U1ZobmxZSHk1T0ZUWHc?oc=5",
+          "source": "Yahoo Finance",
+          "pubDate": "2026-06-01T07:00:00+00:00",
+          "recent": false
+        },
+        {
           "title": "Justin Barney",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ2d2S3o0UTFhZWhGVGtkZEFNWThNU3RDTjFMQXJiX2VZR1F5YkIwYTdGR3F2QlQwYWlDcWctemVvQ19NM3loV05zRWhOZXgtSzUwZDhLaHNsUXFZVVcxNDlQUGdNallYdXRMMWlDYWNNbzNmSUpqdGdwcTRJNHkyZw?oc=5",
           "source": "Cisco Newsroom",
@@ -4543,13 +4557,6 @@
           "recent": false
         },
         {
-          "title": "Lunch & Learn with Bloomberg and Splunk (Cisco)",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRWVrWDhZQXFuTnAzZk1wckV5VnRxNk1EZEh1LXpYdEtmME9FNzZUcDJtV0pWdEswamVyV0F6aldCNVdvbHp0VGhwbm9nUUZpQ3BpdGEyTlVQYmQ1YUlzeC10ZDV1M3VNQnZvdDl4YjdtY21wNWVoVlJEX0NSVWE1VldJVmRqMjUxWmNtQlBrVzM?oc=5",
-          "source": "St. John's University",
-          "pubDate": "2026-02-25T08:00:00+00:00",
-          "recent": false
-        },
-        {
           "title": "Splunk Report: Agentic AI Takes Center Stage in CISOs’ Path to Digital Resilience",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb1RWUDh0OURrNU43REJhMFpTTWFiZzJnekFxOEhKcHhvUHIwNFVveG44bTlsS0RhRTFqQUNQVy1MNjdQYzNHZkl5QXU0Z05tLXZ0ZUk3QUF4SUx6YlZOUkY1eGs2blZkYWhEZFRsdExQUXBWYl9nVEZjVlNEOF94ZUxOZWU0T2FZWUhpMy0wNFRNb2xOVEFUTkJzRjl4RWRRanBHdUpWRzlBT3lFWTQwQlpsXy1HYU1jbjBhY2wzQkdnV3NBZWZ5LW1fc1ZRSEdTallGdGk0OWdSQQ?oc=5",
           "source": "Cisco Newsroom",
@@ -4574,13 +4581,6 @@
           "title": "Accelerate Security Operations with Cisco’s New Security-Tuned Model",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWFZkSXJRSl9Ob0Nyc3BjZ000TU50VDNRNTc0a0hRUnBqUHRYR1NNamdyeEJoS0s4SFFqdk0ybkFJamVud3A3X0RqbElKOXVEVTI1MjNHb0VLQVhnMWc4NnoxZ01wc2Y5dEtrSE9taFpyTWc3VnZDYmtWcHVqTmpUcE5ZNkVUd2JlaUxCUnlBQlpoY1VEdmo0RFg1Z3dTMEFpZFE?oc=5",
           "source": "Cisco Blogs",
-          "pubDate": "2026-02-12T08:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "Cisco networking, AI accelerate while Splunk, CPO sales drift",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaGZmNFRiR2tmY3hrYXNKRnRaV3VvNDRoa1BEdFBLQXZ5MnFzN3BCdW5nWlo5WjhnZ0tPSGp4RUZjWEs1LW1uX2NqMF9nc3VlNDI3cTZCVjFlOWlzT3F1a19zWXJMSFhvbVpxOTZmSEZqRFJQX3R4VmNBLVFfMy1RMVFXZHpiSkdwVEJCRGplbWhKX2x6ZkFF?oc=5",
-          "source": "SDxCentral",
           "pubDate": "2026-02-12T08:00:00+00:00",
           "recent": false
         },
@@ -4717,6 +4717,13 @@
           "recent": false
         },
         {
+          "title": "Elastic adds native Prometheus support for unified metrics",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZDRuSUdKNWV4YXlaV3JwWldZNk5aUVBBYUt5OVV4QkFZZ3ZUVW1GeEE1OUhfcDBsdDhEcXFzNGtYVml4TVhXb1JvanBuY2Rodzc2U1BvaUpRUmsyYmxaV3hDVlkwZU5pX0IyeTI1Tno5Qm8zRWhaRTVLNmxVMElzRFlhNEVqUzdoS0FWR3FGSlo5bmNzOHdzSkRpMHhvcEdHZ05vR2xtbHpMdG9rT0hobDZYQWJ2QQ?oc=5",
+          "source": "scanx.trade",
+          "pubDate": "2026-08-14T00:51:52+00:00",
+          "recent": false
+        },
+        {
           "title": "Elastic Recognized as a Leader for the Third Consecutive Year in the Gartner® Magic Quadrant™ for Observability Platforms",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWmxYZUpVV0h1dUU5S3VxWG91TnM1OUJkQzBsOTQtZkxUanlIN2dQY05RLThaUjZQNlJzZUhKSm5GRXpHUUppUExDRUpmUGhoQ0xiZnBSTDkwWlhoV25QSFR6aTRYcEc5cjlQc3g4U1pqUXFVZVZpRW03OUZwY2RJdUNHVzdZN01YTjdlMWJIZEhFTDI0c3hGSDNuYnFSeVl3a0FqMHhsTHdBMTA?oc=5",
           "source": "Yahoo Finance",
@@ -4731,15 +4738,15 @@
           "recent": false
         },
         {
-          "title": "Elastic (ESTC) Stock May Be Overvalued Despite New Observability Features",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOWt4Q2JyQUpQWUxKVm9GSWZoMnVFaWI5Vk5pUzRaX2lPelRaRXdEVFozZkxXNnkyRTFnWVpTcU5OZHU2Mmt4WDBUaDRoLXVlcnAzVXlmWnNFc3RfT0V1dmplb2xFdVl4T21zX19ONjRta2k0RFlKSkVZWk1JWUFlZ3hQZDA1dEo5cl92M3JieDJ1V2FZcVlYbGpRVHhja2M?oc=5",
+          "title": "Elastic (ESTC) Launches Unified Observability Platform To Win Over Prometheus Users",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOejBsVE5DbkxpYlgzNm1oY0ZjZVhac3RhQ1V3a1F0bG5kX3l0VThxbW1Kd0ZUVWFra3VrRWFCVUZXZU55TWlIM3ZLcTQtbHd4eUZjS2xjX0tHMFBRQ1I2WGVwQl9TVnhqSnFlU1FvRUt6c2NQMVFCWnVtWGpwNmNZQVAxanZ2TXc4ZHFPNmU4TkpXY3JobWEyZ0tKUG0ySXVKZ3pORlotNEZSYl9n?oc=5",
           "source": "Yahoo Finance",
           "pubDate": "2026-07-02T07:00:00+00:00",
           "recent": false
         },
         {
-          "title": "Elastic (ESTC) Launches Unified Observability Platform To Win Over Prometheus Users",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOejBsVE5DbkxpYlgzNm1oY0ZjZVhac3RhQ1V3a1F0bG5kX3l0VThxbW1Kd0ZUVWFra3VrRWFCVUZXZU55TWlIM3ZLcTQtbHd4eUZjS2xjX0tHMFBRQ1I2WGVwQl9TVnhqSnFlU1FvRUt6c2NQMVFCWnVtWGpwNmNZQVAxanZ2TXc4ZHFPNmU4TkpXY3JobWEyZ0tKUG0ySXVKZ3pORlotNEZSYl9n?oc=5",
+          "title": "Elastic (ESTC) Stock May Be Overvalued Despite New Observability Features",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOWt4Q2JyQUpQWUxKVm9GSWZoMnVFaWI5Vk5pUzRaX2lPelRaRXdEVFozZkxXNnkyRTFnWVpTcU5OZHU2Mmt4WDBUaDRoLXVlcnAzVXlmWnNFc3RfT0V1dmplb2xFdVl4T21zX19ONjRta2k0RFlKSkVZWk1JWUFlZ3hQZDA1dEo5cl92M3JieDJ1V2FZcVlYbGpRVHhja2M?oc=5",
           "source": "Yahoo Finance",
           "pubDate": "2026-07-02T07:00:00+00:00",
           "recent": false
@@ -4756,13 +4763,6 @@
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRlRwWVBURjNLRUNKRkpLQmt1RnVvYmVHa2tMZ0Z3dWxCZC1abG4zSlB6RFFJay1JX0x2U2xwdkVkOWpfUENtTHpldkF2UVgzYW5KX3ZsQjZyWHQ2bVpnMFFvMWdpQV96Vlh5WHdTTHdDMnNIQVp0b0pWTTViOC12V1JQOE9zT0pwZERWbHpMdWFpVmg1TTlUckdoSHJRekZ2VU53SEdxVDhTLXBhakRkaTNaVGNWdV9EX0VFX3diamxUal9EMmRRNHZBaVctd2JtTHc?oc=5",
           "source": "Express Computer",
           "pubDate": "2026-07-01T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "Elastic adds native Prometheus support for unified metrics",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZDRuSUdKNWV4YXlaV3JwWldZNk5aUVBBYUt5OVV4QkFZZ3ZUVW1GeEE1OUhfcDBsdDhEcXFzNGtYVml4TVhXb1JvanBuY2Rodzc2U1BvaUpRUmsyYmxaV3hDVlkwZU5pX0IyeTI1Tno5Qm8zRWhaRTVLNmxVMElzRFlhNEVqUzdoS0FWR3FGSlo5bmNzOHdzSkRpMHhvcEdHZ05vR2xtbHpMdG9rT0hobDZYQWJ2QQ?oc=5",
-          "source": "scanx.trade",
-          "pubDate": "2026-06-30T07:00:00+00:00",
           "recent": false
         },
         {
@@ -4815,6 +4815,13 @@
           "recent": false
         },
         {
+          "title": "Why Legacy Monitoring Fails and How Elastic Observability Services Act as a Modern Observability Tool",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdFJlcjNhb2VSVVdEOU1MNlkwWGNES3FaRjVxYkFVcWdrdjctSUVEdFNiRlByVEZxSGRJeVVIQmFZUW52UWFIeVc1NDllNU41OWQwOHZ4YWVVdkhqNDlOaG5IUkRhNVhCOGNpaFhiVkk0c1phSDBHSWhSczlTWDNCX0FiYTFzYklyN2o5V1AzdnBzVk5GUnVLY3M4NFUzTFBya0pRYTl1UWlxNE81TFk3ZDJUdHZiWERYVWx0WURZWFJFUGlIdmRYMjRaUFM5QXhEenlxZXI2WHdlZw?oc=5",
+          "source": "Fingerlakes1.com",
+          "pubDate": "2026-05-25T07:00:00+00:00",
+          "recent": false
+        },
+        {
           "title": "Elastic Adds Native Prometheus and PromQL Support to Elastic Observability",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQXdEVVFkX2VQcVMxRmEzMnFGMjNITFd4UW1QVk5qdnplYjY2dzF5MWduQTExa0hnOU5MMUt3NmtlQWVrMmZyaEs0c2V5M0ZlSlVoN0lURHlKR1hUOFBoWDFxM2ZwZnBPM3NfRFVSMjdzc19QaWVzT2NRV3JkSTlWZDZrWUlRczNKb19kaTdrOVJyT0JsWG51ekVmNkdScXdxZFE2OUgta2pZNmFVN2tWNUVHRlNwZFRfd0ZLclJJMFRTVTd0ZTBsXzdIYw?oc=5",
           "source": "Business Wire",
@@ -4850,13 +4857,6 @@
           "recent": false
         },
         {
-          "title": "Elasticsearch vs OpenSearch [2026]: 1 Clear Winner - tech-insider.org",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oWmgxVTYyekw2aFozbHV0X0dfd29aakZmcHpEa0xUMko5Y2l3UGdDUFV6dWtJY21UczNYakhxMTFiUjZfVWdnaVlveHRYYlhJcE5hSDlUek1uMGdjNVdrbEItZlBDenRBOVE?oc=5",
-          "source": "tech-insider.org",
-          "pubDate": "2026-04-02T07:00:00+00:00",
-          "recent": false
-        },
-        {
           "title": "Elastic Releases Version 9.3.0 with Enhanced AI Tools and OTel Support",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3MktXbVBELXpmeW5xdko0eWoxN3gwTnBaZ3JERWcxLXBGMk82NUp3N3hrUUd2RkVMWndUVFdJZ0poZWQ4aF9RQ0pFMHEzNlFQUUNCNUVzYXI3RUhhZzIxUi03b1BuN19qVUo0ZmlfWTFSNjltMlE?oc=5",
           "source": "infoq.com",
@@ -4875,13 +4875,6 @@
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYU03TUhMMU5NakNaaFZCdjFHSkxFS19BcGgzS2RMa2wzd3ExLTlLVzViekNLZl91Qy1VSWxBeW1xc2Y2Z2UwdHduWDZIampzUGZZZFdRUDNkaUVzTTF5aVBBb3hVdFlaNm9PMzBHZXBlWlI2YTJ6RVlaWF9Db2xQNDdlWVNVdDdLTTJiVGItLXpVTFdkTUlTR3FqbEZrNnZ1VWN1RlZB?oc=5",
           "source": "The Futurum Group",
           "pubDate": "2026-03-03T08:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "Down 42% In Last 12 Months, Can Elastic Stock Recover in 2026?",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYmo2eXZjNGdPOWpCS01lSG1UTTg0SXdkdkNBSzRGay1vR0M2YVpZd0pmSzJlcnZJcUI0anpSWE9adHlkQk9QOU55SlBYcDFLOHhRTlR6LWxGQzRPVFVIbk5UMUJ3Nl9pNW9uUVI0UzVRdnBneGV4aTF3Z0laa2gtZjQ3WGRUT1o0bTlaSjhBT2g3b1M4dG5QUG9fQQ?oc=5",
-          "source": "TIKR.com",
-          "pubDate": "2026-02-04T08:00:00+00:00",
           "recent": false
         },
         {
@@ -5108,31 +5101,10 @@
       "name": "New Relic",
       "items": [
         {
-          "title": "Tomb Raider King Animated Series Shares New Relic Visual",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWHpEaUpqM0FoQkY4Z1JobEFlQVBpR1RUcEdkRXJ3eFh2SjV0SklsZUdqUUlEQTU3bTY2dk5fVS1EREFCemJmWXAwcDFsRjhvTHBVTHNvdDNuQmdnQjVtT3BjQTZxYU5GVTNNN19VYXpEelNrbWxTVVVJM2J4YnZfbjhUbEhZa05OR3NCZ0MwOTd4d3dUMHBHcEtaVjNOeG50eHpiMTRGckg?oc=5",
-          "source": "Crunchyroll",
-          "pubDate": "2026-08-06T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "LogicMonitor’s New Leadership: Aiming for AI-Driven Observability Success",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYm14WTlodzNSQVBkbUNoNEwtd0dhYVRkS3h5S3JNa0xObFJWV1pTUTI1QWd0QUlyVWo4eFJVSV95dDQ4anQyUlYtR0g2YU1UNXlDdWd6VXdRUkRYa2swM3BiWXMwbFdEQkNHaVh0amZpaWZEd19pdWtsQjVJcHdoMTluRl9CdENmWTRqbXpBclBHcFB3Wk5HaWRIY1c2Q1drZlllQTRvd2Zjdw?oc=5",
-          "source": "The Futurum Group",
-          "pubDate": "2026-08-06T07:00:00+00:00",
-          "recent": false
-        },
-        {
           "title": "New Relic Number of Employees 2026 | Employee Count & Headcount Data",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOcVE3SGRZZHFPTWpLLS1zdFgtNGlucmoxV25GSzJlNElHR09TejV6bzg2S3Y1Tk1ENmRhcmtoODdQY0lCZlh5MDJHTXNON2V2YlNlVUxvTkRodFpVRGtSMUcza0IzQUlw?oc=5",
           "source": "Revelio Labs",
           "pubDate": "2026-07-30T06:51:07+00:00",
-          "recent": false
-        },
-        {
-          "title": "New Relic Announces User Conference New Relic RUNTIME at RenderATL",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWHItWGFTbE1jYVNBRkNRZGZwNjJiQ3ZhZVJnSnBYRy0yQlA3NDI4elZRRnhkWUMtNVZpVENuWU1QV0hmRzZreFdZLW5HRkxfZF91VG02OGdNbkZqbThmSlBpdFBMT0k5RlFmVkNXTEVtbFhoaTNHb1VXNi1JRVdrakRabmR6SzVram5UVW0tajVTeDJKZVNJeFRqR3pSSkdES3lRR2JGeUpKdXQ0OWhrbjZvMUJzUE0?oc=5",
-          "source": "HPCwire",
-          "pubDate": "2026-07-23T07:00:00+00:00",
           "recent": false
         },
         {
@@ -5143,66 +5115,10 @@
           "recent": false
         },
         {
-          "title": "HIT2 Updates with New 'Relic Occupation Battle - Guild War' Content",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRWp3bG9zUDA3Z1d5bkpKM0l2ZGhrbVVKMThfRDItUVRtZTlZNk0xT2w0UGpveWtJMEdONl9kRHI2bkk3aVVuREZhV29PWURtZEF0ck9nS09VRW90bHNPWjZsT3dVM1dGMEQwdVFDSkRXR3YzUElOTWU4UlhCbGpRUHUtUXhDWEJhR3NlQWdHT1N4Q3dvYVJablRIek90bTBLdzBXdFpPTHpiZw?oc=5",
-          "source": "Inven Global",
-          "pubDate": "2026-07-21T07:00:00+00:00",
-          "recent": false
-        },
-        {
           "title": "Cathedral has new relic of St. Mary Magdalene",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FTHMxbnlqN3NocG5oSTJoaGZVZ1JnajNxMkhHLTlkelFsa3lrT0g1OWl3dm91OHJDN0hZOUNTbzltd0hyeVlRYUoyRW9rR1FqLUlpLVVkVzlDZ2RXdGEzbkJpS3cyY1VTdXJIYV9WZW5TN05TWmRN?oc=5",
           "source": "Diocese of Salt Lake City",
           "pubDate": "2026-07-20T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "New Relic Appoints Shubham Vernekar as Senior Field Marketing Manager, India",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM3BjTWl6Vk1XSFFpdWpBWFFOTXNEeEJDbzZwajQwbjN0d2lBa004cXVHdDdSRXZEOG5aNUNpOVB6a1hIYmRGMjhXVEMyaGt4eldiSlZpdlVTVXBKdUQ4Q0lVc095czZPVzBqNzZqdGF5VTd6dzNXVE5CTW5HWnp2UEZCbFVtb3NUUmtkenpzVmFQa1NqODk4NUliN25qdDBVZnc?oc=5",
-          "source": "Veloxx media",
-          "pubDate": "2026-07-16T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "New Relic Names Hein Hellemons As CRO",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeFpraDJ6VXNncERQXzNleEJIWmJOS1pBUWZfcFhKYWFYajczajVnalRPeThjU004QnV1eFFhMmdTbFlNcTdibExLOEdUNmZ6cURFbHJjaVBIZHF4TmRKUmZic2Y1a0MtN0NSUUV6TWhBVFQ4VUctZ2hHdjYxZXFRMkNCTUxpMEpQWFJrODFn?oc=5",
-          "source": "BW Marketing World",
-          "pubDate": "2026-07-14T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "New Relic appoints Hein Hellemons as Chief Revenue Officer",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZU84dWozREZtUm9XekJIZzlBVzA4dTRkajU1dVFGOW1RaDRlaHdTMG1acTBwVm90amdTQTJKWktDV0lGRWEzNDFDaDcycnZHSWV6cXY2ckpvTWt0cnJ3SE5wMTFPQUU5ek5UQ1cwUHRUVTJCZjA4ak1vNkVSMDVWM1hwXzJPUS00ZWdFc1F0YU0?oc=5",
-          "source": "MediaNews4U",
-          "pubDate": "2026-07-14T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "New Relic Announces Hein Hellemons as Chief Revenue Officer",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWHJTcTkyUlY2OXdTWmtpR3ZLaDJSN1RnRHh6WXIxOUlxV1M5R2hoaUIyQXo4dUsyczdzeG5PTnh0TGEwU2UzbHVZQUxrX01mWHY1WGEwTkZkUzFNVXlsbG9lcnVyS2h1d1hBRmdJTUcwQTVJdVV4dXRZZk1XRURtRHRhU290VXZUT1E?oc=5",
-          "source": "IT Voice Media Pvt. Ltd.",
-          "pubDate": "2026-07-14T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "One of world's best escape rooms opens new temple expedition experience",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZkVWYS1UWk9wWlhNcEJpNllpcnBOQTM4NGhfN092Vl90QngyM042eFlJMWlzU2JmeXVsYzZGbzhUMjg3ai03MjI3cUY0Z0w4Z1ZjSVNBTlJuWGNXaUxTWFNIb3lEbjhJVi1zZDBwa0xObGJuRjRhdkwxekFSWDZUTUxLbVItWlNFdjZNY1EyRTk0ejVfZWlJ?oc=5",
-          "source": "The Argus",
-          "pubDate": "2026-07-14T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "New Relic Appoints Hein Hellemons as Chief Revenue Officer to Lead Global Growth",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcktfc0Vic1dXbUh3TTdLY1VSeVU3Z1c3aFpmVG94cDh0TUlRa0psTEdicV9qMTdrOGdxNFI4WlBUTkM5Q1RpdTJnZjQwN0lnSkRidGNxRWZaaE5KMENhSl84dDNoZ1dPbnBPb3BlV1NJb3NmYWp5WG80MURCMS13YzhLT1EyeV84QlYzUzQyRjZ5VUZfcFlINUtOQXpMcmtEeERjSEdpcEtuSEZRU1RiRDRQN2hNakhWbjFv?oc=5",
-          "source": "citybiz",
-          "pubDate": "2026-07-13T14:01:47+00:00",
-          "recent": false
-        },
-        {
-          "title": "Jitterbit eyes global growth under new CRO Chris Stoddard",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRVAwN1RwR2VxbXNoM2xYa3Z4Snd2SXBJNlRrUEZSbmdzTzNnanNLZllNV1NHTGZWei1sQWlnUmxsNkJsVExxZnFoUW9CU21aWWtuamRyMGNxVk84VkZObmM1a0ZzOEV3MHgxc1d2UEN5THJHM3VoT1FGY045MTdqUFRka2xhbTlvSnJhcXJJRVBrT2dmQnJnVzY5Y09zREc3?oc=5",
-          "source": "IT Pro",
-          "pubDate": "2026-07-13T13:29:16+00:00",
           "recent": false
         },
         {
@@ -5213,59 +5129,10 @@
           "recent": false
         },
         {
-          "title": "New Relic Announces Commitment to Achieve FedRAMP High and DoD Impact Level 4 Authorizations",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSGRRUllsYXNiTVNfY0VkSnNUT19YeEVETmJDZHM3anBjSTIyWkF0eXJoU1pQU2VueFpybXpUd3Q5anIzQTRHblVWRWJ2STJQTUlRTlZhcTRveTd3ajJFX3JtR1VLTzd6U0l5SF9ITFdRMi1WLVc3OTU3SkF4b001UWdRNDcwYVhMMjlUeVRqaG1jTlEtUzVyeVk1M3BLQ2Y5ZDdtNklOTGgxXzZDX1FwVzhXZkxTZw?oc=5",
-          "source": "IT Voice Media Pvt. Ltd.",
-          "pubDate": "2026-07-02T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "New Relic Champions Reliable AI-Generated Code and AI Observability Solutions at New Relic Now",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMnpNWThBNlBCbkxwWk1DOTBBeWkxWDY1MHJoaFRObjVxZGFRVXdZd3doXzBPdWFUSVd0cGlLSDM2VlVjcnRxWjU2em9WNlJWVGxyeXlSc3dvbmVvbkpDX1VYcnU1Zmk4SVM1SkNaZ1VESFFSa21KU3Q1WHA2TENCZ3JIeFBBcUQxaGwyOTdEaFRkVzBXY052SnZObVRiWGZOZEhKS1JBUGMxYUV3RDQ0RWxQYkc2WC1y?oc=5",
-          "source": "IT Voice Media Pvt. Ltd.",
-          "pubDate": "2026-06-30T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "New Relic Launches Autonomous AI Agent to Transform IT Operations",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORThLODRXQ3BPR2ZkY3pTNERKRFpmYkVhVmlYcjFSdTkzUWdMY182X2ZqNFNFU1BPUW5KZzVZbkxubzU3eDZBdUxTZ3R0SDlnNHpvVTlUN2paQUM4aEVVMmtuNy1FM2huOThtdm90RzdyVGFia2I4c3l3NGx5d0N2Vi1XMWN1QU5GNmc3Ty1CbUFEMkRiYUJKbDFzX001RUJhUDFxMHc2M2RncHfSAbgBQVVfeXFMUHJpZW42NllwNFZzVUpua213QXczOTFMekpQZ3duaWVOTXFQTlVQaXVjbWo5cnpNTW9EOW1DanQ2M1QyMTZnbjkyU050MF9OamxOVUdrVnZfSU5ROHh6N1huMDNWV080dVFyVUZYRHJfSERDV21VMUZpR1pObHBrV1JJbmRZUm5kNFVoS3R0ZW85MXladXRaZW0zWVo5QlRad2wzdmdKanQ2SGRfNEhWSlF1MWpYanlwUA?oc=5",
-          "source": "digital terminal",
-          "pubDate": "2026-06-27T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "New Relic launches New Relic for startups to empower the next generation of AI innovators with enterprise-grade observability",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUGJSMjJwc0l2LXBSVG4zYTV4ajhEZjhQUlpMOHVsamhKRmhNdzBSQTQxVHlRRU90SWVkSDk5YlM1T2xYeEc0T1AtdXc4VkQyY3pkTW9iSUU2aklORndUdDNzcTd2cjRTX25adFFZYThCMHdReG9OZUxLTllhNjJCcjZCRlIxVUk5TExNMWlIYzl1T1Nxam0zYl9CcHozUXNxNlkyLUVVU2xwRGhyZGpWMEpJeWdnaEJ0ekR2OEN4OWNXQV8wUXJpSlJpeWFrbGppWjFOdWVwaUdHMjNvOWtrY3dlQnZvRTJmTG1ob2U1M3JvUjRHVnQ2ZnFUVGQ?oc=5",
-          "source": "Cyprus Shipping News",
-          "pubDate": "2026-06-26T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "Purplle picks New Relic for improved developer productivity",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNTBwTHdVUmFxR3hTWlVoS3JEdTI4QjFia2hQaTZKT1JsX3M4Y2ZURWxBR21iOHRjYmUzSDNBbkF3N1FINjRySXZMNlJwMnFxWDdPTGNfVDZkSHFTLUhhUUl6cHgwMFo1VXMySGEzWUM1aXNYRWhUTUtwbDFGSXBEbVdCVjM2Q0QxYmdtZXNkU19Pb3VpSkh4Ym9wdlY?oc=5",
-          "source": "Frontier Enterprise",
-          "pubDate": "2026-06-26T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "CAPCOM’s Dragon’s Dogma 2: Dark Arisen Packs 12 New Dungeons and New Relic-fueled Gear, Reshaping the Game’s Core Gameplay Loop",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yenNFY08wcUNGNUs1MmFtUUUtX0JVQnlpbjJfeVZpYnBmb2JNWGFwNWFrS2t1UWtyYWpmOGNOeEpFSzZBdlhOeHhwT2dtZnNIclRVdkY3aDRZczFHd3A1bG1NN3pCd3MycmZsd2lUYkFpTVZ4TjdhOdIBfkFVX3lxTFA0a2R2dS1KTGcxeDJuTWttYkV2Q1FtVU9zeXQ4ZGQyWExXXzV5M2tVa19jOWVJc0p3NEJWRDJLWXRnYk0yakNLRlN0Y2hldGgxUWxZbTY3VmZ2ZkFqOV9YQVF5MFFNSWdEaFl3dzNPT2FReVRoSGtGeFJfejVUQQ?oc=5",
-          "source": "Wccftech",
-          "pubDate": "2026-06-26T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "AI now touches three-quarters of enterprise code – New Relic’s Ashan Willy on agent debt and the re-defining of observability",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZVRfMGdXUEd5ZGRHWXItS01JRmtIelNCN2pXbXZvVExXenRvQ3ozOVlFVEtFLVVCcDF1NDhCMUE5QjFEZEVTQWNRcjIzMVVlZFVyMXFHZTJiRWpWM2lvUkgtaHZmRjM2M3FHTWxSU0wweERpNTJCcVM0Y0FVZXVkazZjNUFPbk5pV283aXAwQlU0aDFlWUJlQkdCcXRPS3RIQ1JfYjczS0wtNUI2SFd2WmRHWkc0Ynd0OHc?oc=5",
-          "source": "diginomica",
-          "pubDate": "2026-06-25T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "New Relic integrates observability platform with AWS Kiro development environment",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWkh2Q2xOZ3ZpLVhsdVkyTVRFYVJVU2d2RVBpamtVTDJZNTJPYW9jeFlFSWZMVHZIdndGemphVWxjeU82bjVqZDdqQkNXNGdnQjdCWThuQmMzTlVNOWI1bFpvMVlEZU5LTng5U0JjOEVLSGswVGpqSlYxOG1DMzZkQnRJWjB5TGkxMTJOcFl3RGNLV1FzLTYwM1BYUDR3Q0FCUWdGU1pPVHBpWVJHSG9IdlZFblVCbDd5dmMyd3JQVWRvbnpsR0Y0SGFOWVVWNUdTajJuTHJwbmpkczAwNjdrLdIB5gFBVV95cUxQOXdCS0dKdlhOY19tNDJ2ZlRnUUVyaVJpVWJHSUlTZFN5VFZNN2lrYm1DX2ZUTVFYcmVWd2lJeFB5STh6cTkzSlJoQlRTMVhZM3hVTmxsVmxrcTBfWWxoMUU5a056c09BNWlILW9BVFA5VWVhUDFQbFdqLUk5WnJLbk9GZ3RJQlFRM095S0pXYkpZUlNtRHNhekRsdHdfYjU4SmhfeXFIZDVVSlNkOTZsc2d1dEZJWC12U3VmbFRZVWp1UGZTUi1sSWJfdXB5UmxWSm5uS0NDVGVvVjNrNUdaYTZ1YnFVQQ?oc=5",
-          "source": "ET CIO",
-          "pubDate": "2026-06-24T07:00:00+00:00",
+          "title": "New Relic Announces Hein Hellemons as Chief Revenue Officer",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2Nhei1YSFpHT1g2Z2VZVFRQOEdyUEtOMWxEcV9jalBieDlkY3BXcnFrN1lCS0RsVzRuWHcyREhuMUNQUll1ZG1qbEtKamE3eVdtQzVqYkVxZHh2X090S1J3VDRXTk1xWl9oeVlGcVRUR2VWV1FRWUIwT2tSOWlsbFE1S1h5U05HSXdCcFlvY1h1REFGaEdsUzdRZy1haXFLQWVNb09BV0lJcHJVSVBReW90cXJPVVk?oc=5",
+          "source": "Business Wire",
+          "pubDate": "2026-07-13T07:00:00+00:00",
           "recent": false
         },
         {
@@ -5276,73 +5143,17 @@
           "recent": false
         },
         {
-          "title": "New Relic integrates Kiro as AWS sales top USD $1 billion",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc1Y0MUVoaGljNDUwdjlsSXAtV0hRZzRjVFEzMHdxNl9VS05OUDZla1pRck5qYUdYTUswaVRIOEd4VXR0VW9JaGZhb09ZYmtsbWc5c2RlT2hJU05KcS1OVGszekNRZXFudndmYzlKanZ3bzR5cFVtUjAzelhjVmZwUkUtaHpYdVRPaVhjMExzYkFuc28?oc=5",
-          "source": "ChannelLife Australia",
-          "pubDate": "2026-06-18T07:00:00+00:00",
+          "title": "New Relic Champions Reliable AI-Generated Code and AI Observability Solutions at New Relic Now",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNFc5OVFNZG84YnJPUmJYNEFCMklWNml5RWZtNEplcVplVkZNOHR0eDZMWFphdS01OEJCSU1WQmhkcWtCeUEwN0tXZm96TWhTYnhCcmtaRTJOa0w3NmZzdXpldlVtVmNwa1Y2RDQ2elhNTFJkYTQ2SVhlWmJkNTRKUjI2eHBEb1ZHV1FDYVhoTXY1cW1hdHUwSFVkTFNXOG4zRzZEMm9GZlZLci1XZVpBc200RUoxRndWU000UEdKVVA4R3pZYzdfcXZmV2IwVWdqeEtPN1ZidlNFWi1EblZqS2NzUXNQUQ?oc=5",
+          "source": "Business Wire",
+          "pubDate": "2026-06-23T07:00:00+00:00",
           "recent": false
         },
         {
-          "title": "AI adoption in India outpaces global peers, boosting demand for observability: New Relic CEO",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxON3hyamNhT0tsenJkZGU0TWduMFExcHJ0TjNlMmhrTVRmV1hneDNmNEFwUDJjaGYzbEYyb1h6TmRzSzZQc3QwVGZuQmxVUDVQN1A2WmFjZEFQNHg5eVp2X0xtZWlIOVE5b3VjTGJ0OURaR0tfaW8wVFNvWWVfcy14ZWpGbV9ySFlpSlhuUWpJalZBWnF3ZjVYa1BLelBia05kNWVzU1JhQ3kzLUdfd1pFeWFocnMzdVE3dGdLSjV2TTlxTklPY0x2b0FncENLNFJLVzJTY1EzemJ2V3IwMklPd09TMTdyNlNTdy1QZm9B0gH0AUFVX3lxTE9TZE1MM05paXJTWDRkMVpUUkp3aTV0VjZiSUxuX3JLN19QOWIySE04Ujl4SndHRGUzU2hLWGhSMXlSRFBSMG5udXo1ZnUzUHp6UjF6ekxiRUJXTWJTcGtzTXhVbFBTMlRjNVA4aENDTFFoLU1JTUFhTTdPdnFpR2JoMnhNZVJxYTJPeklVUHNLSS1NZVNyQTVfZ2hkTTRBa1Q5X0duS0Q0c292amxzMEQ1RGQ4N2NhZUx1SnppRjh2SmYyN29CN0JoTU5jUlFNc0RYZVR1WFdpQXlweGt6RC1ObWticlljNkZCYmJ3czNJeFR0WEw?oc=5",
-          "source": "BusinessLine",
-          "pubDate": "2026-06-16T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "New Relic Adds Open Source Tool to Observe AI Coding",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5SWm9PZlBraklFNEN0czZILWJ2UDVaY0ZYRFVpMjR1cHdONUVqWnMxYkItOFJUVFFUdFVQejFwd1hFYkgyQXJ2NXhEMjlkWHFKbFo2R0RjaTJmc3pCNmxhWWwwd2ZIRVBWR0tjbWpxeWNJbThJeVB5UTRUX24?oc=5",
-          "source": "DevOps.com",
-          "pubDate": "2026-06-15T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "Purplle targets 70 percent faster incident resolution with New Relic observability platform",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU3B5S2xxaDNUcjhicFZQaUMyOVZEZno4TFBVekJvSjVSODlia2xjNlVqYmxkNmdodEpuaWVHZHdUNW5PYm9nZHZiV19kcGh4bjNKSVdGb0tzcHdmcFYyVlE5b1U3eHZDaWwxNVBXMUJNakE5d1hmWTNQSHFKVHVZQ0lBZlJaVTZSLS1aeEhQWWw1a1B6V3BxbS1FN19GWEVHRk94YkxNRFhnVFYxd0lFSGEtZTllMjlyc05WYWp1SFRBd3pUSklqQTlPbw?oc=5",
-          "source": "CRN Asia",
-          "pubDate": "2026-06-15T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "Purplle selects New Relic as its official observability partner",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNGdlbVE5ZlVZWUFYSUphMFAtUkNRcHc5bGc2ZWJ5Y1JyZlNlUlBxT2paMklRV2JXVXhTX09WNE1Rdl9pZVhiQ3VvV0ZpWkxicS1WODZ3a3FOSkt6bnZnd0dWcTdQckFKOEVNTG94cjhfQlBXdEhmTVhhUWhUb01ySUhVaXUzb0t2Ri1PMXMtX1A?oc=5",
-          "source": "MediaBrief",
-          "pubDate": "2026-06-15T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "Purplle taps New Relic to deliver exceptional digital CX to millions of monthly active users",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSElRRzY5WjRNVC1rSXBOZXVxaDVRS25Ob191aWFiaXpTbGVnTWR6MDZEajBsb014TTNnaW9EOUpuRXlpZWZXSnljbUFSYXFRVHROcnBPdXlaUndKSi1pN2VuVW8tOTBRYkY4VnFnekR2TFRqZTNfMm9oNlozenhCQ0cxc21BZURZVngzN2FfWFZrN0puRDdyVzdJUFZIN1lLcEdoRTlIanlORFJGZ2IwQUF6TEphZkgwaXlmR1dTdlNsOVlHSmFFV3AyV2lMakZBMlE?oc=5",
-          "source": "Express Computer",
-          "pubDate": "2026-06-15T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "Purplle Taps New Relic to Deliver Exceptional Digital Customer Experiences to Millions of Monthly Active Users",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbmtUbjJpUVlsR3FZWEp4QVAzWnFiMUtiZjB1aWhzeXFSeDJEM2xfQWRfNDhVaWJaY1Y2VHNJREV6Z28xUjhlOFNjQjYtU2dpNWo3Sk4tNXltN1FYZG1Cd2FYWnZHX0dWaFhjVVBVZVVMa05ZV0hWQm9qQXpGSlQzWmp5emw5c0ctQ2lRbFpWYTJyVy1JSUR1bFktOXlzOGM0Ym8wWm5QVV9oQU00YThHaDM0Ny1kdl9ENjR6MjB5RkFTNWk5ZkM2dDY1NmxTQTdVMXpWMHNwRWZaUi0tTXJIQ3VvZVhkZ9IB5gFBVV95cUxNbmtUbjJpUVlsR3FZWEp4QVAzWnFiMUtiZjB1aWhzeXFSeDJEM2xfQWRfNDhVaWJaY1Y2VHNJREV6Z28xUjhlOFNjQjYtU2dpNWo3Sk4tNXltN1FYZG1Cd2FYWnZHX0dWaFhjVVBVZVVMa05ZV0hWQm9qQXpGSlQzWmp5emw5c0ctQ2lRbFpWYTJyVy1JSUR1bFktOXlzOGM0Ym8wWm5QVV9oQU00YThHaDM0Ny1kdl9ENjR6MjB5RkFTNWk5ZkM2dDY1NmxTQTdVMXpWMHNwRWZaUi0tTXJIQ3VvZVhkZw?oc=5",
-          "source": "SMEStreet",
-          "pubDate": "2026-06-15T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "MongoDB Monitoring: SolarWinds vs New Relic vs Datadog",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82RXBfMm16ckpVdU5nMFBOS3U2SDEwZ2I5X0hqUTM1QjVpRktPTUk2LTExa1pUWjV1OGVidFNQVFhaN0JITlM1c3Q4dVU3TUMtajJj?oc=5",
-          "source": "AIMultiple",
-          "pubDate": "2026-06-12T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "MySQL Monitoring: SolarWinds vs New Relic vs Datadog",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfemt6OHBNaVpFQ05IbXYwNHJ1MXlOakluVGxGWWh0TTVMVVZ2UlZJTVhPRVI0b3hNWEZCRmpHTjVrQnpiNDI1T0JwRVVNUmhY?oc=5",
-          "source": "AIMultiple",
-          "pubDate": "2026-06-12T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "Talpiot graduates raise $10 million for Upriver, backed by Cyera founders and New Relic creator",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5acEpVVTRJX1pvUUZEeTRfWExqaE9mVTQtdXVaOENrZW9hVHEwMlNGQjNkd1l2eWNMNUFZWEJ0bzdFeV9NeE9wRVVydlVoVDNhV1FOM25sMjAzWDAxZk5POFVuMWFWYXFK?oc=5",
-          "source": "calcalistech.com",
-          "pubDate": "2026-06-11T07:00:00+00:00",
+          "title": "New Relic Launches New Relic for Startups to Empower the Next Generation of AI Innovators with Enterprise-Grade Observability",
+          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNV3pWdGd3bkg5aHVCQ1p3M1k1NjY3bnJLU0k3WW1EaF9lbVVIai1jRmRvSjk1QjlpZ3hWM0tITUY4ZUc0TElaYWtLMlpybWx1TTVYSkpka1R6ckFKTnR5RDFTQ08yekVMa0hSczVrTm9DdzFPaVNaeFc2QUNZTGhjQ0l2c1RMMW9vMUdHMG5yLXhJY3J1RTlHVU1WcjBxSF85LUVVajRqQWYxTHpDWDFnVWp1Q2JicXZVOGZZcmZ4YmRfa1prWmNhT0luYUh4TTJaazdlOTdzVlZJd3hKeXZxSVJGNW52d3dzaW1Rbi1hclY4d3pBWXlnanExaGh1Q0pQUmp4bDNtYjVrczF1SWk4?oc=5",
+          "source": "Business Wire",
+          "pubDate": "2026-06-23T07:00:00+00:00",
           "recent": false
         },
         {
@@ -5353,45 +5164,10 @@
           "recent": false
         },
         {
-          "title": "New Relic launches AI coding observability tool",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSmRGMkJST0lBeE9lQVZua096NTg5OTRPWlZrc3FyUm4zWC1CajMtUUF1RXFtdHNrU09Bczk0YVRKMDYtU1NsZFFQM1JlWFdoYTR0azBzMl96MGhfWnA2Nk1iQVdNMm1fRXkwZmNpdWNOZTYtSHVVWTQ2d0lVNGVWdGhIM0xab1IzRkt2dUdtdFFBdkRXQl9NM1A5Qmp1V3pGbFVqc1ZLeVZOTk1uN2plTmhNRkdUZ0lpd05EX09jSi12UVNVdGfSAcsBQVVfeXFMUEVfM3R0V1I3bzJZMV9KeTAta2J6QlJ0T1dUZ0lqbGhHUldIcWY3TDhmUkxPVTVSSUd1QW5DWFNjdXVmekF1dUk3MEpIWVlfVFZSWkVKUGFrcTZOUko4Vm52RDlzTTd3UnRNOTNvb21idkFXN2JoN1JSbU5pM3JJSEVIVXc2OS13dFNsVDRmaUFIQ1JBbUJpdVNJc2ZLcWxkTVgzejRkeEZIOE1pelFQOHloLUtmVG56aFNkOWUwbF9jSFYtSG5RUXl2Zk0?oc=5",
-          "source": "ET CIO",
-          "pubDate": "2026-06-10T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "Build an agentic incident triage assistant with Amazon Quick and New Relic",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVG5aQTZDdHk4SEsyTFdfV2tKb3gyaEp3QmU4UlJxeGNZVnpJNk5RZDhzajV3dWNMeXNQYW9fWVdpazkyVm5PUi1XbDVvYTQ4Yzlpa2UzUHdhTjljQTEyMjhsWWRCMHJPZHFza3VKLWNFc2VJS1dhYW9TbGgwamQ4MW15WWZwV3ZRZFJMSHpJVXp4OUVvNDlnX1JsdDU2T0Y2NjFGeXRyTmJ1enN0SEY0N3ZkOWphdkVzVExWR1Nn?oc=5",
-          "source": "Amazon Web Services (AWS)",
-          "pubDate": "2026-06-09T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "New Relic launches AI coding observability feature",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZkYxZTloY3UzMnI1WGRxT3ZpdnA3VTFqYzFOclZ3NGMwc2k3cG5Rem81M1dnWWRuTE5qVTk3ellOMi1mWjZjSG9MeEZacXJCQWJHWW9wc2NDTzk2Z1lJQzhGalI5ejdNTnZRTjFCQ0lfOVFQZERsa3laSURpMG1pYWZ0VHhZQQ?oc=5",
-          "source": "IT Brief Australia",
-          "pubDate": "2026-06-09T07:00:00+00:00",
-          "recent": false
-        },
-        {
           "title": "New Relic Introduces AI Coding Observability to Bring Critical Visibility and Governance to AI Coding Assistants",
           "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPcHZXTDF1azRzNnpvV2JiazN2bTMyN1pYak1nbXFYalJwME1ZRnRtcERUb3o4cnBtdWtaa214RTNJaXZjRU5zU0dnYmRCTzBHOGxIdElNX3JmZFRBcTR2Uk5lTElfTFBmVDhxWks3eE9TUEV0a0l6UUFTcjBsUGdIZWNNYVhrclY4M2lXbmd5T0hrU09aU0hhd19fT3d3WVIyRzk1dlo3ZmRBNGFvcThpX0Y4YTB6SFREaXFCMVd4WHFiUmFNdlc5clYxVWJXS04tQjExNnpTZFp4Tkl4bUNRMmJNdDlPdjlaYllibUU5R3F3RHRQZWNPSWUtd2luZw?oc=5",
           "source": "Business Wire",
           "pubDate": "2026-06-08T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "8 Best APM Tools for 2026",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSdHZUTVpMaXBVenBKZDd5RkF4RGIxd3lTMXY3bUZaekNLZjNuSmFSMHJpdndlQ04wVm9Zdkc5YzFUR0V3QUpCRnVDa0l0V0VfbUQ4dk81ZzhZcFZf?oc=5",
-          "source": "Augment Code",
-          "pubDate": "2026-06-04T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "New Relic touts Microsoft partnership as bookings rise",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbDI1ZWtoTjlGWGpZTUNCYXpFMERnYnFuRDNyRlBzN1JGNkNqNi1UZkgwc1Zxdzl1M1o3ZWRhRTNPSVlINVNSTkkzVE15aXVfYWxYdVZzSnVpTG1mVVI1ajdKNVQzdzhvUF9VWTl6eFp0Mk9YRVpjMFlpdzZ0TVB0VmZsM1hVVGFWUUpuam1PWnA?oc=5",
-          "source": "ChannelLife Australia",
-          "pubDate": "2026-06-03T07:00:00+00:00",
           "recent": false
         },
         {
@@ -5402,80 +5178,10 @@
           "recent": false
         },
         {
-          "title": "2027 Chevy Bolt Gets New Relic Green Metallic Color: First Look",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcl94ZGhhX2doM3RySXRqeWRJZmlpWmhWOU81S2Z4ZFlINUVqUnNXS0VIWktycWY5RnVmT1ZVbVNqUDlDaXE1Unc4Q0h1Qnpxa3RiNzNNMUQwLTBtSThfQlRHbmVyYXlMZlZZWHZXMkREalpOcjhjWF9DcXpTSjVYdWJOQmF0TVZfTGF1UEVLX2ZFTlpZQXBrTC1iQ3Q4NTBjZ0E?oc=5",
-          "source": "GM Authority",
-          "pubDate": "2026-05-30T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "Shear Electronics Relic, the OB-X Synthesizer clone is now in production",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeWtQa2MxeFZyVndTdng0TVZDUlM2ZHhWSnF6U0pvc0xfRUxHVnRsZlRPVDRWWDZUSWxncWRZQ3Zpc296RlB0cS1ZdEt4VDdDQVVuQWdBU2d2U2Rwd0FFUjBobzBjanBkRlQ4dUk1OGtoVlFyTHJZRFdwS1BSV1MwaG5GNTBuQ2dBWWRLNm1rdk5MQnBxVzRfdlh4ZUlzNjFJWXgzLUVEY1QxM3RVODdxMko3clM?oc=5",
-          "source": "synth anatomy",
-          "pubDate": "2026-05-07T11:34:59+00:00",
-          "recent": false
-        },
-        {
-          "title": "New Relic advances AI observability with new intelligence layer",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Nb3IzME1NVEJhMDQtcmJYYWFoU2lRNWMzQWRtTnIwUmhfN0p1eDNWNGQ5aXNOc2kxNDBQUmNodE5yZkJERE9Db0lNbFRXQUtLUm9IMGNKa0FhZ2Z2c2FYTi1RMXNVa1BXZnY2VEc2ekxBUmFWdFhaOGdJckRhSEE?oc=5",
-          "source": "Help Net Security",
-          "pubDate": "2026-05-06T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "New Relic launches AI knowledge layer for IT incidents",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNVZJclJ6NFdDSGlGZ2l1TGRSZ09QMGs2MGMwaWhOaUFfSFdhNXhnZi1SWUUyVmxEU1NhZnVGcXpTQ1FndWRTYjliRUZ6YmN6Z2d5X0psOHpoVVRrazZOS09FUVdOQVVuWXRHNFdsX0VpQkw1cjVQWDJLaGtoUW9PUmdFSV9HenUtV1VF?oc=5",
-          "source": "IT Brief Australia",
-          "pubDate": "2026-05-06T07:00:00+00:00",
-          "recent": false
-        },
-        {
           "title": "New Relic Unveils Knowledge Capability to Power Agents with Real-Time System Understanding",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLTA0SUdNZmNocS1kbVNyamc5WWlweHNITmduOGcyc01jTGVldWJEeDlQWFROd21xSVZHRF9YV0NhU2Z3eXB5czRxQkEwVXFHV05FakpRWnpUcVUzVVRPUVU0ZHZBblM0aVNNM0NGWEs0SFdIMU5VOUdLUnU3SHFBM1BfWHczM1d5d3ljbkVVUzJEc04yZnVaM0lFdlNkamNCVmJQM0RuX1RuWktpb0NoMjhrNA?oc=5",
-          "source": "IT Voice Media Pvt. Ltd.",
-          "pubDate": "2026-05-06T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "New Relic Crosses $1 Billion in AWS Marketplace Transactions, Earns AWS Recognition",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVGNnWmpoQlFTQ0VCbE1fTnJSd1pGMUc1eTVDWUYwMGVGRFRjZEZhZ3NQc1ZQVzVnZXMzNl9JNjdiZVdacHQ4ZUhTV2d5WWRGYTJJTWtjRW52SFJyazZHczRlTjZvWWUwV2hiUG52dk55X2VkeU13SGVYSTBkcEJkSld4TnRBZXI3R2x5V1BZVGtnSU01SF9EQUthM3ZwSmNMWThtMTc1aw?oc=5",
-          "source": "IT Voice Media Pvt. Ltd.",
-          "pubDate": "2026-04-23T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "New Relic appoints Masakiyo Furudate to lead Japan operations",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORmZscFFVQ0U2bHRXOGFodGpGbWtkZGQzQ0g1cEVxcmFHZlhTT0wybHR0RFdZdmM0WTlpc3JHRGtLN083eUl4ZVhTczZySlFuajl6VEtOeDVwbjRXSHpLX3pCTzViZlFiVmhsbzF5RnZING9MdV9jNEoxU01VNmRJOGlEbnJUdkhOVkJhNENlVE9reWZCNjBQWkhmQ3VGM3k0dzdzZWdWTDlqUkFw?oc=5",
-          "source": "CRN Asia",
-          "pubDate": "2026-04-03T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "New Relic Appoints Masakiyo Furudate as Group Vice President, Head of New Relic Japan",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR2NpNWh6d0FKaW9CaGExcDY3MEM5bmhpck9qS0Nwa2M5MjM0TEpIY2xfZDBDMXgycHlVTmkxWFJQY0VBYUdCYnMxNUVnOWlQMkJkZ3pyMVhFRmhUSElXS2tRVWlTVnQ3ZER1d2QwNTRhV1Z2aGFCQzlkc2NqQmtudmxPWEhCNjkyRnREYmo2SkpfeXNkRUh1b19ITW12cExxM29wSThkenBYWDA?oc=5",
-          "source": "IT Voice Media Pvt. Ltd.",
-          "pubDate": "2026-04-02T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "New Relic names Wendi Sturgis to board for AI expertise",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNVJySzJyZ0dib2s0QnZqSG5FN3RrN3p3UkhUS0U3TW1sS29IVnR1cWJWbkRPSjNmWlVUU3AyV20yWXhHcGpaOUlRTXNCZzEzUE02WHQzakxiVjhWbVozT2hZTnV2aFR5bExyejNidWRxSGI1RWVhLVFhLTk5MG5FTGt1Z0d4V1doMWI1WA?oc=5",
-          "source": "IT Brief Australia",
-          "pubDate": "2026-03-27T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "New Relic Names Michael Frendo Chief Technology Officer to Advance Observability Platform Strategy",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUzlGVGZNY3hQSDNDdFJyTDJsTEpDblpGaS1tQmU1b2JIcUEwSGRSVm5PaXg3aGdMN0FGcDA0RkhjQl9jTkZEMDRPVVE2UmFKQ0wyaEJXeGV5V0s3ZFk4dlI2anhFUW1kOGhHcGFxM0hlZjZheFo1YngxdGM1YkRfQ1ZSZHRacUJMYVUwY1dkeFNLbUE0Vmo5U2JzeGx4c1ktMVQ3Q19IVUp0Y3NXTzZJVzJDMTZmbEhxbXJzQmU1bTJ1MGVEX2wzbkVuMHFvMWJwQWxHMkNrb0hTdWM?oc=5",
-          "source": "thekeyexecutives.com",
-          "pubDate": "2026-03-25T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "New Relic named IDC MarketScape AIOps leader again",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX0dtWFRlcjJHZHpfU3BGeHYtblNHU29kdXRTbmZHQnpJa3A4RmlMOTdiS0VmMUQ4MWo3WmtxSUt4X1ZRNkhrWXBpeml6Q1I5Y2lPT1k4QmFFeGhheFJrWXR6WHBKdFB2RVlCOHkxSGVJemhsR1JMZDhaWWhqeHNId1lBN2ZVcGZ1Rkl3?oc=5",
-          "source": "ChannelLife Australia",
-          "pubDate": "2026-03-25T07:00:00+00:00",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUnNTOWtiYWFXQ2x4Mm1raUhXd2Z4MGNMRlJrclU3ZGRQS1N1emZ3NDM3V2x6a3g3bjhXdFl2MDBHeFhVVFY3WDg1TXR4anp6eTVBOUpCMmdLY0hwXzBQUHo3My16SVA2TWM5dkh1WGxrWWtILUYtMXgzcEl6LXZ5aXVfel9EZ0FkMGx6d0lfempNRU1rOUVOQnc4Zjg3VVptWjdvczFiREVwWHR2ZE5rSE5YRFdlMDdHTVJRaTg4R214eENLUW1uZkhhbk01MVJaTkUxYjBKOHEtR1VpQVNZYw?oc=5",
+          "source": "Business Wire",
+          "pubDate": "2026-05-05T07:00:00+00:00",
           "recent": false
         },
         {
@@ -5493,58 +5199,16 @@
           "recent": false
         },
         {
-          "title": "New Relic to open first Japan data centre in Tokyo",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMkNBRFMzLU53YWxuaGR0VDBraHA2Nlgtd0pnVjVHR0dkZGVoV3JkQ1FWeUNEaUluYlFuZnhocGQ3R2pOdFl2RW9nMC1qMWVtRUczb1ExaFA2WHB4MElLNmRsTWlNcWpUVUpXUXdVWDIxYURseTgtTXRuMngzNjltbDJzWVJ5bVJaRDVzSg?oc=5",
-          "source": "DataCenterNews Asia Pacific",
-          "pubDate": "2026-03-12T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "New Relic to Launch Japanese Data Center to Accelerate Enterprise Digital Transformation and Operational Excellence",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQODJSZVdOSk9LUnhLRDdzMTNmTEhaRGxjZkFTLWpwZGVTRDdCV3ZlZk5faG1aRmtOZFk2QmZyLUN6aXp2VURTVjRPRlhGb2F6czNnNFRlRDRiUW4zSl9xUjIzNHl5NGJPcWNadGVoYllIZE11VWpVZUQzQ3dfMW1kLTNTU0xHLVpxeTMxNk9CUWpsZTdVcXY2bUhFVndOaFdKYVpRSE56dGZmYjFzbUtmYlh0Uy14S01McWJxUV91cHB6cEl0UE54N092T0ZEcnV0d3VOVw?oc=5",
-          "source": "IT Voice Media Pvt. Ltd.",
-          "pubDate": "2026-03-12T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "New Relic names Michael Frendo CTO to drive AI observability",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTDZpTVVqS0l2YktzR2lBWjVVNVN5YUEwYUhNNzVNMDR0T2VuWTBHZ25rM3FxMFJOdnJ1UExWRDNwb1JTdFcwWnlGcjRPbFQ1bFV5MUVYaklrdmd0WWZDSWhVLUxPSC1ocHJIRHQ3Q1BoczBZckVscW0zNExZNFJZNzB3Z19wXzVoSXdMUVBrNnBacEFsRjhLRk1rOA?oc=5",
-          "source": "SecurityBrief Australia",
-          "pubDate": "2026-03-05T08:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "New Relic Launches Agentic Platform, a No-code Solution to Build and Govern Custom AI Agents for Observability at Scale",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdlNDTHpzNDFTLUFWdW9fazI4LUhGWXNjNjFfR1JweEFyek1wdGc4eVFEMGNHYmZ0Yk1CSlU0TzFYdlpuMVpZNmVnR3JwX1RlTkVZb0JfRm54cmpYZjdqT0hhLTNscWdXSlNuWWFLa2h4MVpiQXYyWmNmWFU3Ul9WV0ROc2dNWGRGNTZzWkxEcmUyNTVPM0ZyS2RJWlp5RDkwcDdlcXNlV21hOTRLcjh5ZnA4dnJnTjFjMG5seV96TzYwY1lkSW5vaW9hamlDV3FhSUJ5cTN5VE8?oc=5",
-          "source": "IT Voice Media Pvt. Ltd.",
-          "pubDate": "2026-03-05T08:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "New Relic Closes Gaps Between Data, Insight and Action with SRE Agent and AI-Strengthened Platform Innovations",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMDVTc05NakJfd3pDMHdXUGNZdGNpcmpMX2ZpVUVCX044UldxeFZBOXhyYVpDUXNHZGxxSXprdlhFUlE3NUd5ZWVuTUp3VEZXcW9kUkQzTHFVMUx0SXpjWEZkR1RuYll2MnZFOElfUzRjSW5ESGdaV1hSQTIzZG9XbVh3MnZTY3BJdmJkUVZKZXpiU3pfcFFFXzlBMXpVeTR6TlRGa1lxVlV0WDRtU3FwVGt4OUJRVnN1RUhRU3VveW1IN3c0clJzU0kzS1Y?oc=5",
-          "source": "IT Voice Media Pvt. Ltd.",
-          "pubDate": "2026-03-03T08:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "UpStart Collective moves to Big Pink, takes over old New Relic space",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeGk2a3kydnEwZUlLTHVOQ3FCOGNZMFdwVjAtSjlUZGZhZi1FeFJ1REZIb3dUZGZTSGp4ZHcyYUFiLTRpQlNMNTBmeGxGVFhoZWMxaVplWDNOSklOSTVVd2VObTRLQ0NZR1cwRDdfY1N3bXV5eUYxZU1ZR2F0TjVCMTZvaHpGLVdBWkN0Z0xaQ0NTbXUxNF9VbVN6QnQ?oc=5",
-          "source": "The Business Journals",
-          "pubDate": "2026-02-26T08:00:00+00:00",
+          "title": "New Relic plans to expand AI agent observability",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX09vTGlZYkU4OWdROEU3cXB1UkRJU2xUZlVyYXI0TEYtc1IxSUFLbzNKRDhuMF9ISFBQNmc5TllsZzR6RWJpWTdYV1haTnF5VHlodTAtcVA2aVlBTjZqQXNIaUNvSjc1ZVRfemZ2MThsMkwxZ21FT2huMWh2clRGb0tJaThUcTVjNWFIdDFqMFNORDYwUE1DR0RINWh0OEVtUnp4cE9IbzYxUFJZ?oc=5",
+          "source": "TechTarget",
+          "pubDate": "2026-02-24T08:00:00+00:00",
           "recent": false
         },
         {
           "title": "New Relic Unveils Platform Innovations that Align Technical Performance to Business Outcomes, Making Observability a Value Driver",
           "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPTkZkck85X1kyOE55azZienRiRmhzbnZGaDJFNjJUbVZsUGxWYS1KRGNlbnJqNUpycWVJUmttZXNjOVhfM2RxaTY0Zkk4bXI2T0tyTkpWQTh3dV93WWNXQnp2SGhTRmJ4cHY0cHFpZnJQVGtGNUJmMEc2TUhNdk5PYU5vZDlEa2gyRkVoQW9JcVBiSDZJbEFpRnQ2NTk4NFBxVElFUXdsdGUzNW5hWTlJMzk2SlVNM3VVdUw4cG4yR2MxUXUwbWlTUUJUYkZ4bWltVUVkNmpKSDNJNXBGZnVGRHZCRVV5ajhSc0FlcVhrSGpfaGd6UXA1elgtbHF4N0FhSnJ2MmxEcXZYaHdWdWY2WjRJcw?oc=5",
           "source": "Business Wire",
-          "pubDate": "2026-02-24T08:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "New Relic plans to expand AI agent observability",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX09vTGlZYkU4OWdROEU3cXB1UkRJU2xUZlVyYXI0TEYtc1IxSUFLbzNKRDhuMF9ISFBQNmc5TllsZzR6RWJpWTdYV1haTnF5VHlodTAtcVA2aVlBTjZqQXNIaUNvSjc1ZVRfemZ2MThsMkwxZ21FT2huMWh2clRGb0tJaThUcTVjNWFIdDFqMFNORDYwUE1DR0RINWh0OEVtUnp4cE9IbzYxUFJZ?oc=5",
-          "source": "TechTarget",
           "pubDate": "2026-02-24T08:00:00+00:00",
           "recent": false
         },
@@ -5563,24 +5227,10 @@
           "recent": false
         },
         {
-          "title": "5 best Snowflake observability tools for 2026",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LZnltVDlDWXBwR1dmZ19OTFAwbVZEWDlvbXEzdFRCZngtZERnUXlGY1BMY1I4M2Q0b3c4ZVNVa3B5eDkwTDVtM09wYWU4NEhicWNZdlQ2NHh5Zll0YXRFUGhDcE43VVFLRmtzRVVJblpmYXpw?oc=5",
-          "source": "Flexera",
-          "pubDate": "2026-02-12T16:19:45+00:00",
-          "recent": false
-        },
-        {
           "title": "New Relic transforms productivity with generative AI on AWS | Amazon Web Services",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR2dpcm5hRHpob2VxUlZHYUJOWGI1NTlHeDljUG1RWTZJUmxpM3RiaHlvUlNzc3Fza3VqOF84UWgzVjJOU2tJVWNFRm9MT1E1MGl1R2h1MFVkYWlSTHdUcWpOQzZ2bnRRSTR6Ynh2MEZwR1c3QzRGM1JMWUhFdFI1MmFIbC1SZTByR2hjbnZBRjd2SU1CU0NBZUNTcWhuSHJpdmU5bjBzVkhWUQ?oc=5",
           "source": "Amazon Web Services (AWS)",
           "pubDate": "2026-02-09T08:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "New Relic links AI observability to faster deployments",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObk8yQWVnVVExRnhieHhFb0s4bDNRVFlYdmtodXRpUzR6RWlFZ2N6UVJWS3BoSXR4aFhLQ1BPbUJEcVVPVjRHeFhKQndMMnhmd3RrS3VpQ2EzOWIzeHQ5dVdmbDR5WWpKUnJvaXdKX0tFZy1pQ05JaG03LUxGSkFaYm1VUlJJdVpFQnVF?oc=5",
-          "source": "IT Brief Australia",
-          "pubDate": "2026-01-27T08:00:00+00:00",
           "recent": false
         },
         {
@@ -5591,10 +5241,10 @@
           "recent": false
         },
         {
-          "title": "New Relic AWS Integrations Go Deep on Root Cause Observability Analysis",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUUxodGUybS1nT0lJNFk2akw2LXhsbld2RE4zSUMyOERkOS1EWEVIRTV5QmxJQnZqWVE1T0VLVWlNYXhOcHRsS2NmTnZqWDRIMXJ1azRXZ1dpY29tM0g0dFprdFRLOWNLck1YTklMWEVqOHBRZkJqVlVEWFE5ajM2Vllocm5fYjhXajVwYlg2VVRyWDNPQmc?oc=5",
-          "source": "DevOps.com",
-          "pubDate": "2025-12-15T08:00:00+00:00",
+          "title": "New Relic: telcos go AI‑first in observability push",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbTBLaG0tRjVjeTkzSGxmbzJrQzlxMjJ4U1F3NURLczlIZEx3SkZiY0g4V25SU0MxVUZfWGVhelZUUFdJalFUdHFEeElpdEhLRXV6RWtjN0FBdWRDa2paZUdGYUpfVFVONVRubmlnYXRmZF9DRnRrekpiOXdVLXBaWUZKVFZLZw?oc=5",
+          "source": "IT Brief Australia",
+          "pubDate": "2026-01-13T08:00:00+00:00",
           "recent": false
         },
         {
@@ -5605,38 +5255,10 @@
           "recent": false
         },
         {
-          "title": "New Relic Brings Agentic AI Observability to Microsoft Azure, Aiming to Cut MTTR and Improve Developer Workflows",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS01XdWlDbTZMTDRWM1IxVWRKaURsdXVhRWtXcFJTczNEajktZ1lnd3hmRWpHUE9ORWF1eHpESWZ4ZUx4TmlhYVBkYnRpRUJaX01CN1VxbTFiS01DbDV6ZVJoVEE5SkUza21YLWZBOXplRk5wWEo2M19LZlU5VTNvX0k5aFFvNDY5U3cwNXdtbHh1M1FrOWc1YXRZa1lfRGlYZm1HNXFyNTh3Tjh3emJxVV9hM0lwT1dJUGZVVkVWVWJvSEVwbmh1c1g0Q1R1NFAxYzdOSmJMcE82TU0?oc=5",
-          "source": "ChannelE2E",
-          "pubDate": "2025-11-24T08:00:00+00:00",
-          "recent": false
-        },
-        {
           "title": "New Relic Reviews & Ratings 2026",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HX3BhOTQzeUNBMDR2OGRob1NNVHhrbzhZUXZacGJKejBsV1Jvc2ZrR2ZnbFdKZlZNdkJuZ0xlaFQ3ZzNzeFVLUTlQZ2Z6VnY5UFhyQTJKTXQ5RWtH?oc=5",
           "source": "Gartner",
           "pubDate": "2025-11-14T04:13:37+00:00",
-          "recent": false
-        },
-        {
-          "title": "New Relic unveils AI-powered log analytics for faster insights",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV0pOeVdYeFRHMm1yWmFZQ1poUllISlI1YkVPMlpsVnpCYkRzekt5YmFUVlgyTlF4NlVYQjdLNkxFNmtfWDZBclhlTjFpc2NodFh0bWdHUjhOUXVPNXA3ZGI4R0l3cExIQlpJaGJqYVZZaHdXN1RiY0tCT2l6UTdPd2FPdkx1ak11ZVdUME9OTmVCUDlqd2xkQjNyOHNNdw?oc=5",
-          "source": "SecurityBrief Australia",
-          "pubDate": "2025-11-05T08:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "Announcing AIOps partnerships with Dynatrace, New Relic, and BigPanda",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOLU5FNHNvUlIyZU5FSEpONkRIWDJpMkNtZXpCam14TXR3SkRScXEzNmJjb29TZ3JDS2RjMDFCaDBMSnIydXp4LVlJcHhRMkljVHdubHFwNVVoMGpVbHc3YUNkV19vQ1FmUXJOcVdCNXBuZl9XUER1RkhOVUpkc2Q1TmxLLWlSdThXNHNmaElwY3NBX0UwRngzMEZUVnpwcjJlSmwzejl6dVVnX1J3SWc4X09ZaW94TEtXS3VIRVhiYw?oc=5",
-          "source": "Atlassian",
-          "pubDate": "2025-10-07T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "IT outages cost businesses $76M annually",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vVlo3dGlfel94UjJGaFJ1bTVQdUlsRE5JY05uTVo5MG1HMGI4dVhjeGJSdmN3eEg1eXVfR044cFRQSDA1WTZGRFY2OFdxdmtlaHZNZndNdXdwTnN5MzlWVDFuOE9wUUVSNWVQelVodw?oc=5",
-          "source": "CIO Dive",
-          "pubDate": "2025-09-18T07:00:00+00:00",
           "recent": false
         },
         {
@@ -5647,10 +5269,10 @@
           "recent": false
         },
         {
-          "title": "Elevate customer experience by using the Amazon Q Business custom plugin for New Relic AI | Amazon Web Services",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNjJMMTBsamM5bTB6b2FvWTBacFFzZEhQaV9VWmZKSXNjRkdrX1RlY2JjRHVGTGFpT1FsZmY3ZzllQUFLZ0YzQVlYNUZxMS02RjRQT0RxdDZrNkxfY3pCX2U1VUtuUF9JcWRWdjdBTVZPZ0tLeHMwbjh0UEN2WlQzSkNiSVNJYVRJQXIzTzktVWpEdHpDUmxndTlHdHFobFU1Zlp3OXg2aXR2X3VXWmdGRktZTXJaZ19aVTR6U29YYV9fZ3FhVkh3dlRBNXR0ZTdiNkE?oc=5",
-          "source": "Amazon Web Services (AWS)",
-          "pubDate": "2024-12-03T08:00:00+00:00",
+          "title": "New Relic takes partnership tack for agentic AI",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdEtNcEs2VzN3QmQ0NUdTS2VpM3hxbFFGUElQdl9VeWs1OUJwaVJlMktUS3NvdVdkRHE4TmMwTmRwOEhpbVZnU0NhdjVpX0VnaWlzNVBfd0Y4ZnlabXc2bEJjN2k1d3ZEQlE4a25uU1RDcEZRMmlIY28zdDR1UGZpUDZTUTRubEJ3bVByRl9CR19aaTB2OUVOSThzRDVJVmhlcVZWZ3FUX3VPOE0?oc=5",
+          "source": "TechTarget",
+          "pubDate": "2025-02-25T08:00:00+00:00",
           "recent": false
         },
         {
@@ -5668,10 +5290,24 @@
           "recent": false
         },
         {
+          "title": "New Relic Launches the First Fully-Integrated, AI-Driven Digital Experience Monitoring Solution",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVnN6Qzl1R0dCLUZUY2tWa19oOERjNGIyR2F5ZHAzemlnYmZXTXVVOXdMZmk4YVk0N1FENFdUWEFhT3BPejd5dEVhVGNiU0xNaDJTOGtueFotR2hVMExlN2ZObGc2dlNNMHZYV1AwcTNMMWRYVjQ0OFJTdmcwY080VmFFeGcyZWFGcGp3NVFjWWFvTUE4d2lVN0tjVGNFOUUtZ0lTQm1aYVB0QTNlWVNrbXV0bm1DOWZPV0Q0OUJnRGFPbFlrS0xRaG95MFl4dnVfX25CdDVKUkltUE1CNlhaNGkxV0gzQQ?oc=5",
+          "source": "Business Wire",
+          "pubDate": "2024-07-10T07:00:00+00:00",
+          "recent": false
+        },
+        {
           "title": "New Relic CEO sets observability strategy for the AI age",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNllaVUNVbDZJMFVGQ0RZWmlyZml2Rkt1MDFuWUlVUms2RHVJeTNKUVZPMlVlR3pMR2tnSmlYcTdaNi1GMHp6dmZWc3dNbHJfYzBRSWRmbzBaS1ZRNGZzNGdTcGdOZmlLYWlVeVVzRTNWd1dvaml4VHR6RVpJaXZXS0VEbzZYTW1nT2hmMlVvS19LN2hQWXI4RGdpbEJTTy1HX3UyTXJkRnRmRFQ3LTJ5dmp1OHRyOGR0?oc=5",
           "source": "TechTarget",
           "pubDate": "2024-06-27T07:00:00+00:00",
+          "recent": false
+        },
+        {
+          "title": "Case study: Helping New Relic scale up into the billions",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY2VGb1U5ZlFKREdnLXV4SkVtUmpxdm1sQ1V2X3NHWlFEbnZXaW9tMl84cHBHbVlkalZUVkUzYU9ldVdoRTBsUW1Ta2tXRnlWMF9RdU9ReFlSQ2ppaGRBWGZvUnJzSkxnM1dlbmlVeWRuV3MtYjBRTi15cHNDZTlDZTZGbUo5RnRXSGtDZ0VaUy1MYUlJ?oc=5",
+          "source": "EY",
+          "pubDate": "2024-04-16T16:07:06+00:00",
           "recent": false
         },
         {
@@ -5682,38 +5318,10 @@
           "recent": false
         },
         {
-          "title": "New Relic Announces Ashish Agarwal as Chief Financial Officer",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcno5UFk3U3d3bGVZQVZUM1g5UTZld3R4QS1hejUyZXBFeFdBcGxaOXBYdlR2RE13MDFQVHFOR2Z4QjM4WEFfeE1zMFoyUXdLQWdFZVlWUE9VbUNEY3dEUk9fNHo5Tms1QzA0SlMya1A1M1diZmx2VjJfVnh3SFhDS1dLYUJ2eEx3QmMxX04wb21Qb0U0eFplYnFoSGZxRllWb1FENjJvOGxkVG9wa05qMXNGVGVIUk9FV3c?oc=5",
-          "source": "Business Wire",
-          "pubDate": "2024-03-13T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "New Relic Says Hackers Accessed Internal Environment Using Stolen Credentials",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOE1FUWNTZ2c5X0VOUVFhMl9sakZ5VVFLZmwwekFLdFJLd05Zb2JNWGg5dWhJRVRqd3luYWpzSEkzWVFrWkRmUzVrUXJHeTY2ckdpbUJLb2EtbXVBMXp6dlNPVHJmQ0U5aXhSSmwwMkdKeTM2dU8xcFY1bDczNDdIZWstd0ZlMXR0Q21QaE1venhKTzRBa0RZTHZISUlCOWRncVQtOFh0NHA0UzTSAbABQVVfeXFMTkQ0T3BmTGlaeVFuaG1Xb2IwQjJLOTZJekpiMncxTkwta19mQmdJZ2w3dTNDTU9HQmJoS0M4QW9DbzZHSGM4QVloMkVOX3BNb1pKSWpjZGZiMVR1M3FQLTh5TnByOWR6Nkw1S0liWkhQdnVqdEZGSWdoUk9mSzc0MS1XNWZsU2NzVmtnaUdGanhaNW9GaDJfdlRWU2NadlJNNERGTnpKV3NXSU5tNHFzenU?oc=5",
-          "source": "SecurityWeek",
-          "pubDate": "2023-12-04T08:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "New Relic Sued Over $6.5 Billion Sale to Francisco Partners, TPG",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY01yaVZCODZLeW9OcFItTmdlQ25lQkdOenFkTWxOWnE4QV9iOFhUc3BvNmxBaWpTQ19CREtKY3RncGVUdE4xby1pQ202ckhnN3hGc19UZ1d2bnFlTTdndEtPblVrbkZJcWxodlEtUkljck55MmNIREIyUmxSZFNGQzFnMDR5UnJmamJpMm5QeURocnBKR0I4TDRHSko?oc=5",
-          "source": "Bloomberg Law News",
-          "pubDate": "2023-10-30T07:00:00+00:00",
-          "recent": false
-        },
-        {
           "title": "Focus: How two private equity firms negotiated New Relic deal down to $6.5 billion",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM0ZMQlBEUnVqdTR0TVhXNDdQN0swcHBmTWhGX1NpWEs1WF8tV014Yk9ubXVaaENHRHFIR0hSNzFTWnpZY1RRdmhHY2RmMnNDZUxmM29ITGo4aThKRG05Z3NtVC1MWlg0TklsRFNCcko1Zi1CV3pxZ296eGlGdDJZbFV1TDVFemV1ekRjMTB5ZnZocVZ3eWZnWFlhRlRlYTM0eDhzUlhfbFdGUWh3a3JuWjVqRXdWcVE?oc=5",
           "source": "Reuters",
           "pubDate": "2023-08-03T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "Experts expect Sumo Logic match post-New Relic acquisition",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUDRPcWJqaGRZU3RldG1JaDF0Q1JCbVdhNmpHOTVaNmp5c2Z2S2xPcHlKTDBITmlCTGNhUU1Ybm9KczNyR0g0NEVYOHUyME9wZEs4Z2ZWN3h5NTNrS2swelU5Y2RoNERqWmZLQlBkM0ZDemJMYjFwUzBrSnhWQW5oWVBqanVTQ0luSkhnaU00aEF1WlJJQ0RORnQwUVN2anF5SWMzT1dhQzd3dkFOTHlRWXhTNlBiUG1XTkE?oc=5",
-          "source": "TechTarget",
-          "pubDate": "2023-08-01T07:00:00+00:00",
           "recent": false
         },
         {
@@ -5731,6 +5339,13 @@
           "recent": false
         },
         {
+          "title": "New Relic Announces First Quarter Fiscal Year 2024 Results",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQXzdIcEttVnljQWN4aWE4YWtQUzRMVE0yZzNwX3p4d2I4bUdfa3gtSHV5em9lNmp2NmhRWHRuNTJkOEZRc3ByU09PT2RuN1RiaWUtNzZiM0laLXRNN2ctdktyUXhZQkN0akkwX3gtVC1YQU93cXJMdC14SG55a1ZvbmlCdlhOUWxibnZGd2x2VnFEaThSa0VOYWVuaHlBWmVSMmNBdl9iLVdoTEd3N3hCQmlLOXZUdw?oc=5",
+          "source": "Business Wire",
+          "pubDate": "2023-07-31T07:00:00+00:00",
+          "recent": false
+        },
+        {
           "title": "Azure Native New Relic Service: Full stack observability in minutes",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaDFnSlUzVkdzcVQtVnhLWUp3Q1BFdUYtY1BVZUVjSjJuemhodkVtOFctZDNrUUljOG91dEhvNEJidGNrSHRUQWZ1cWFiMS1SOHdtTEtLQjlhaW9qMV9RWjdHSTBzWjJ2UG1UelBncW9ENTZEVkhObFR3X1ZFbWNBanhlbmNKNEhlQXJ3WU5ZSjVDaHNrRllxU0diZVdCQTNrRmJpWE5BUDlpZw?oc=5",
           "source": "Microsoft Azure",
@@ -5738,10 +5353,10 @@
           "recent": false
         },
         {
-          "title": "EXCLUSIVE New Relic to explore sale options amid takeover interest -sources",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeW1Belc0VDl5RkUyNHRjNk50a3QyRDV6Zk5mT21VMi1abHpieC1sYWNKbHVOY01OajB2ZmltRXF6bU9fN2JydHJfcTJfZW5XaFNBQ0tILUNESHp5NDk3a0ptYm5iTEdOT1RKVjdqZ2lUaHJGWmFhQkEza2JiOVhzSEFhZWRMbDdIaDlMZ0hIOENqRXJ3OUYyWXZTTGpkdk45MC1CRnpQelBQTEQzd0owT3JtbGVUM29xUk5oTzJB?oc=5",
-          "source": "Reuters",
-          "pubDate": "2022-07-20T07:00:00+00:00",
+          "title": "How to integrate and monitor Kubernetes with New Relic",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTXZwMVJxVlNwY2wxaHptdjA3SThjaUx5ZUJLTm5SUDlhTGFkRWNLak1IWllKT1VBa1VZQ1RhdXZ4T0ZYTG04SjJKbnUzWHBfZ1JoNVotQ0REeWY3V1pKcGJKZ3RMVk5WZjVfUzNUdkhrQUZVR2h5YklOU053czQ4dElOdzR3alNZcE5UUHpUSWdsTGFLZjhTbDJ2LXRkcEhDazZ2X0hn?oc=5",
+          "source": "TechTarget",
+          "pubDate": "2022-10-12T07:00:00+00:00",
           "recent": false
         },
         {
@@ -5752,13 +5367,6 @@
           "recent": false
         },
         {
-          "title": "New Relic Results Beat On Revenue But Miss On Earnings Per Share",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTno2Zk5JM01nZEVLS2dtNFpMdzV4ODlzLUNvc195Z0xDdTgzZjJyY1kxOXhLR2VJZXJkX0pxaC1PZkhVVE5zRkRUWWZCa0Z3eWVKdHF3Y2s5TG5SQnFnZWx0Nm1XZnRHX3ZpempGZkI1ZlNWeVVIZzhraVZFczJNbTlVaEEySy05NTFr?oc=5",
-          "source": "Investor's Business Daily",
-          "pubDate": "2022-02-08T08:00:00+00:00",
-          "recent": false
-        },
-        {
           "title": "Use New Relic One to effortlessly monitor applications in Azure Spring Cloud",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdk94elFVVExkVDVlQ21aNTdkVnlkWjhCeGZBZGhtd1BCTkdIWWk4WC1nUUhYc2I0Y3A0MVZWSTZtaGptZll2azNoTl9FUlRlaWRUMk5Ickhhb201NklkbERCSUN1azhJV20xeDgyeWxWdDVFYURyQzVvOG1faFhJOTVTR0pqMHZDU2p3VEhYWGhUcy1FMlpHM2NzaWFzdVFHeGFOaVZaeWkzeUNPSGR1djdMQlNFc2M?oc=5",
           "source": "Microsoft Azure",
@@ -5766,10 +5374,59 @@
           "recent": false
         },
         {
-          "title": "5 Interesting Learnings from New Relic at $650,000,000 in ARR",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZXZITWg3M2dyaFlHN3diWWtqTS0tWUJST2FPX01xSURBeHBIN05TN1ZKVDlOWjJoSkFCVlJJcVVCQVZ2N2hELXczb0VQMElISmxQYUhQd2lzODJVajlWUzBNdFQ2aHRKSHJOaWpxRVAxNkZkUjY0YzRFQ2JzLUN0c2FZS3JKT3UtS3c?oc=5",
+          "title": "New Relic open sources Pixie observability platform",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd3VRcDlTNjVpajM0aUEwYkxTZlhYVW9Nb0NoTFJZYmlIMzZJMVNhNFl4SEFpM3RCd2ZvRkZ1UTk2ZDVULWxiTzZraG5HMTB2MWNNMlBOT2NQdmJpczJyMS02TXBMUE9kY0t4VHhRX0REZnpXdXVjemVlZnBaV0ltRzBlU1pPemR3T2tKbHJpVmlPNWYtdUNBN0ZCU2lfelNWdTZSeGxTVG9tMG0tM1ZfUA?oc=5",
+          "source": "TechTarget",
+          "pubDate": "2021-05-05T07:00:00+00:00",
+          "recent": false
+        },
+        {
+          "title": "Monitoring Kubernetes Environments with AWS and New Relic’s Cluster Explorer",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOXo2UWNZelRpVWZxVjJzSnZ3TlctdXVpN09RdHFuUlM3cGVoSFBPTzdCeU9uRHEyVEFMaTRCajJocm1mcUpvNmpHVk5qTTFhd0lwS2xSLTJwMWlBS3M4MUhJMEFJV2xLS0NMYkVLdmRqOTJmOFYzZUJvbVI4Z1RrV0d5SVdpcDgza0ZTMWNhb0FHM2ZiaDEzeHd3a1JhNUI3cnEtQnluR3J4dXd0d2c?oc=5",
+          "source": "Amazon Web Services (AWS)",
+          "pubDate": "2020-01-28T08:00:00+00:00",
+          "recent": false
+        },
+        {
+          "title": "Lessons from New Relic: Five Critical Steps to Scaling Enterprise (Video + Transcript)",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NVWhOWDJSRUppVmQzZXIxOEIzZVVTWVg1c2Y0cGpyWm53Zkt5QXNJV2Qzdy1yRjlna0kzMGQ2cXRlZDJUTnhyT0xWODhTUkVFei1Kc0ZDamV2bmFzeUJpQTJ3?oc=5",
           "source": "saastr.com",
-          "pubDate": "2020-12-27T16:15:48+00:00",
+          "pubDate": "2019-06-27T14:01:11+00:00",
+          "recent": false
+        },
+        {
+          "title": "Application dependency mapping expands in New Relic One",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSWtJXzAxbGkzVF9TdHRNbXcyREJ1YWtVaThSYVVuX1QyclJpRDNhbWpnaFk4VW4wQzk4MVdtVVhEZG11TTY3RFNPUzE1bTNaQUtzc051NXFXZlAzM2J6MDZ5Z3JRa0tTa1NMM0c2Und3RzlGeno1NTVVM2FkUUxvS3dxRFJ5SzNSZkF5ZGdENEl0Y1k2ZWZQQnZOWmVINGZJX3d4bEgtYmZMZGsxWmg4RFNTbzFxUQ?oc=5",
+          "source": "TechTarget",
+          "pubDate": "2019-05-14T07:00:00+00:00",
+          "recent": false
+        },
+        {
+          "title": "Erica Ruliffson-Schultz (New Relic), Dave Berman (Zoom), Bill Binch (Marketo): Building a World-Class Sales Organization (Video + Transcript)",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeGhqZ3dpX0l5NWd2SzdqSS0xRkpqWER5WFpzRnQwNWh2d0FUT1U0TEEzd1JsSVVOLUN5dU5yX2liMVpLU29ZbnNGb1c3OUJjTkRNU05scVhTUkFSMnE2NG04SWtCbTdfdEJnUU05SnRNU1VGTHJXd3YwSGV4RjhrQVBVb0RRaTVaU3dvSXdwNklheFczdnh1ZFcza2pzdjNUNVZud19Gd3FXMVZMOHZNZlZXd0gybklQSW5kWGFOU0hPNlBlX3I4aTZXMGExaVhPck9IRzY5YTlSMkZsdnVSdDdCcVpCa2M?oc=5",
+          "source": "saastr.com",
+          "pubDate": "2016-11-21T18:58:14+00:00",
+          "recent": false
+        },
+        {
+          "title": "A Discussion With Lew Cirne, CEO of New Relic: \"Scaling Even Faster The Second Time\" (Video + Transcript)",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWWRSYnJXZ1ViYlhRUXpZTHlVUC1UZ1ZXYnpIdERDQzJYaGhUTmFtUEk5cm5vX0Jua0IwR0JXWmNfdUl0dnRLSkY5eUR0eTVhd1dZQ1JkTDBLWFhJVmhyRzY1R3F2RTE3QU9WUExGQjRtUGdlQjRyeWxJeUwxcUhDMm4ySm4tc1RuUFhRbVhTU0pZa19oVWUtUmlFb3A?oc=5",
+          "source": "saastr.com",
+          "pubDate": "2016-06-09T16:04:17+00:00",
+          "recent": false
+        },
+        {
+          "title": "Lew Cirne, CEO New Relic, on sleepless nights, culture, customers and technology",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbkJpemJLMFhmaEN0UFc0Yk15MU81RFJ1NDdEODVaODA3ZHlvY3RNVUMyY0ZvOVFuekQwektRNzd5QmllbHRoTldwQ1g1d2Ywckc3WnBxdC1qdmtEeGFHY1lpdDlqLU1mSkV3d1R2QUdOd2ZtTnFncjd2MHNGU0pwb2hiRkYtMmlZWnlrYXhWQW9aM2Nxa2gwSHlyX0ZCWTBM?oc=5",
+          "source": "diginomica",
+          "pubDate": "2015-11-17T08:00:00+00:00",
+          "recent": false
+        },
+        {
+          "title": "Monitor Your Users’ Experience in Real Time with New Relic",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX3IzZk51ZjdtRUk0QWs3ZUxrNXgyRklzNGg3VzJXMmdrRnFWbzhUTUpYQnpGTTA1UUw3a0ZwOEE2ZExCMlQ2QkpwbnBhV1E1U0dDZm0zbzhvckVwODI0U3FuZWtGWXZSbV9wZlJKZG40cU0xRDVMNFJlMkVhVXlDLUlZV2NiUy1xOXVQTDRLUGtJckZ6Rzd6YUVWMXpLRzQ?oc=5",
+          "source": "Atlassian",
+          "pubDate": "2011-05-17T07:00:00+00:00",
           "recent": false
         }
       ]
@@ -5821,6 +5478,13 @@
           "recent": false
         },
         {
+          "title": "Autonomous Enterprise AI",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JRG95QXFQT3FWSGhKTmQwVU9WdUZubUZvN3I3V2JWaVN0a0JqSW1tbzRPQ2FxYXNSTnJLT3JQZUtsSGRBZXZxMUtjOUVvSnFCMlZQeFM2QU9OYll4NmxJV0JqSG9TX081TmdN?oc=5",
+          "source": "Trend Hunter",
+          "pubDate": "2026-07-22T07:00:00+00:00",
+          "recent": false
+        },
+        {
           "title": "ManageEngine Review: A Comprehensive Look at Zoho’s IT Management Suite",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvLXkzcDNzS0FVbldlaEJ3WjQ1eEloZkpvS1MyQmpoMXdMR3JlX3V3dWZ0WkFqTmxZZ21EeDBfY0QwQjkyRHlFeW92RGczaV9vUTE5cXJMWGFzZ2FVWFpqQU43Y3FNekY2Snc?oc=5",
           "source": "MobileAppDaily",
@@ -5839,6 +5503,13 @@
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbDV2U1F1NjU5WmZMMWMwOWVaUWV0djQwVEQtNGU1bzY1N19Na25VbmI2bksybktnQmlBVWdRMEx4R2hCdzBOVlhoQ3p5UENvUEhHZ2JHNkcwTEdTUUI3Z1dzeWM4dnI1eF9RcFJ6emlBeDNQalpkd3djS18tM1BFWG14N0lVTm1vb1Q5NkQ4Wk1DMEI1UEFDYTY4dEc5NzVaQnZEV0V6aw?oc=5",
           "source": "BusinessWorld Online",
           "pubDate": "2026-07-16T07:00:00+00:00",
+          "recent": false
+        },
+        {
+          "title": "Cybersecurity in the Philippines is still lagging behind",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVEdtOTNJU3dDUlY3TDI5M0xoclMyVnBKU1hVRElBVW80VDNYcmNaSGZOZUMxaUJCanM0NE1IRjNpd3Z3N3NmdEM0eE9WSjZ2ZlBhLXc5N20yNUlJVWJlZWpmSHVudjFKT0hIS1ViT0R2enZYTFI2LWR1SklXb2Jvd3U2N19uNFE5WV9EWnpidVJSblIxQmFQUjlVTdIBoAFBVV95cUxPdTVuSU9rbXNVMUhrZ0xVWlk3NVhKODZ2SlFDS210eE9USnk3YVRiOEdndlNQT0k4SHdiQV9Gdkp0Ykl4cGwtNnZhZ2NCbGZDRllDQ3FGdXQxbW93ZUJCeW4xZXJMTkI0NU92WnFaYUJJYUN1eFBuN1EwekdkbHlqZnFaZG41RDBMZDg5TE5QbmVLNUd3ZGFiaC01elNEVDNN?oc=5",
+          "source": "Inquirer Technology",
+          "pubDate": "2026-07-15T07:00:00+00:00",
           "recent": false
         },
         {
@@ -6152,7 +5823,7 @@
         {
           "title": "Endpoint central gets secure private access",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeGJHS1dwWmtGZmNsaUFFdmdibzA1WWZiaWdrYnlKdEs3REVWME9SdEhtNkpTNGxVTHpXcUdEb2Z1QjhaR1VlanBwaTRaZ3I3U0ljd1h2TnNaRDY2ZnBpaGw3T01BZ3VGa1MzeXV5NWVlYW9IeWZuRXBFNENjbzZNbm1xY1hOYTdNWk1FU3RQTjc5STJkcXotQ2gtbHFCNTREZElxdFBOVTlCV3pKNkhUS2Rn0gG3AUFVX3lxTE9ha2I4SFo1M3JVQnZkMkJ1VHVFWUVwNThzd1hwWWx6R05oVUltYldOVlEtWXRob21pYmJGRmlGTUl2MVlScWt0M05vUVpRdFFXaDJ2SGhNd0Z5U1hQTE1DQmVTczRFamVPVkN4cmJTdm51eDhIWW9wd2t2RXIyeEdPX0FpbklKa1pPT2ZLNFlUV0MtbEplZ3ZDeEE3MWhsLTgycEVyWmhQbnFKWEdLRHNGb2FGZEZVdw?oc=5",
-          "source": "ET CISO",
+          "source": "ETCISO.in",
           "pubDate": "2026-03-19T07:00:00+00:00",
           "recent": false
         },
@@ -6189,13 +5860,6 @@
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LTFRCVmNEaDBxTnRxVm4wWWxPd29YYThBT3hfX21CanVQVWh6M0w2Tm1lTmpZUU1uOEphM3RPMVA3dXRfRUs3RmRubzc5aTlENkhCb0kwSFVNb0Q2RnZvRTVIOUN3MlMySFE?oc=5",
           "source": "Cybercrime Magazine",
           "pubDate": "2026-02-28T08:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "ManageEngine adds causal AI to boost Site24x7 AIOps",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSDRsYWFzd1FmOFZhc29JVHhER1hKUXZpLUdMN3FfdGVnUEpXdVJ3NkI5UWhocjZrNnliUjItQ0R2OU82V19hVnBxdGFzVWQ4S2YtMHAzYUxOMTczamhyQ3R6VTVGY0RZMDM1WmIxWVkxcHd4R0xzRWdGLXhaVFNkQTV0bjVVUQ?oc=5",
-          "source": "IT Brief UK",
-          "pubDate": "2026-02-26T08:00:00+00:00",
           "recent": false
         },
         {
@@ -6413,13 +6077,6 @@
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVHJma2xoeFA0ZXdhN1pITUlZdl9HTDVpSjlJRTFHam5CQlctQXprTlBHb0V1MW1YdFE4Z3lGVHJ2S05QVjN2c1FrUjFNQ2RjSDEtcGNmV19iMTQ1UXlOc2JWN2lNRWZYaUtKUnQ2QXdnUTJTYUhnOFNxVWxMVTBRN0JFTnFEMUVZQVlGUDZkR3NsVFFpc2VlMVlpYnIzVm1OZVVIbzBwUTVxM3NLYlUzbmZXNW5FcVA3NmdjREVGMEp2ZWJaOGZaS0lWd0JkOFE?oc=5",
           "source": "Business Wire",
           "pubDate": "2025-07-08T07:00:00+00:00",
-          "recent": false
-        },
-        {
-          "title": "ManageEngine launches MSP Central for centralized management",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUDg5d3RxeFJ3RnFzRVlSSnRMY1lmRUhLcXZYZlo1eGFYRjl0Q29oQXRGa19iNlpHUV9DS0NfT1hOMkdxOEFoOVBra0JHTFd3RU51SzNQcGtremh3WnJ0ak15NE1jS1pUOGpMU3lPSlN5WXBHS1JCMGdWdFBPRW50NGxFVWVnMGw2V2VnYW1LY21HYzIyUldacW1NZ0RxcG9QYWZZOFZpc1VWZw?oc=5",
-          "source": "Techzine Global",
-          "pubDate": "2025-07-01T07:00:00+00:00",
           "recent": false
         },
         {
