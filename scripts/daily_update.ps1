@@ -15,6 +15,11 @@ if ($LASTEXITCODE -ne 0) {
     exit 1
 }
 
+python scripts\collect_bids.py *>> $LogFile
+if ($LASTEXITCODE -ne 0) {
+    Add-Content -Path $LogFile -Value "collect_bids.py 실패 (exit $LASTEXITCODE) - 나라장터 수집만 건너뛰고 계속 진행"
+}
+
 python scripts\render.py *>> $LogFile
 if ($LASTEXITCODE -ne 0) {
     Add-Content -Path $LogFile -Value "render.py 실패 (exit $LASTEXITCODE) - 중단"
@@ -32,4 +37,5 @@ if ($LASTEXITCODE -ne 0) {
     Add-Content -Path $LogFile -Value "변경 사항 없음, 커밋 생략"
 }
 Add-Content -Path $LogFile -Value "===== 실행 완료 ====="
+
 

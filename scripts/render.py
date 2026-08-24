@@ -12,6 +12,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 RAW_DIR = ROOT / "data" / "raw"
 ENRICH_DIR = ROOT / "data" / "enrich"
+BIDS_DIR = ROOT / "data" / "bids"
 SITE_DIR = ROOT / "site"
 
 MAX_DAYS = 30
@@ -139,6 +140,39 @@ def render_global_section(g: dict, enrich_map: dict) -> str:
       </section>"""
 
 
+def render_bid_card(bid: dict) -> str:
+    return f"""
+        <a class="item-card badge-mid" href="{esc(bid['link'])}" target="_blank" rel="noopener">
+          <div class="item-title">{esc(bid['title'])}</div>
+          <div class="item-meta">{esc(bid['org'])} · 마감 {esc(bid['close_date'])} · #{esc(bid['matched_keyword'])}</div>
+        </a>"""
+
+
+def load_bids(date: str) -> list:
+    path = BIDS_DIR / f"{date}.json"
+    if not path.exists():
+        return []
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+        return data.get("bids", [])
+    except (json.JSONDecodeError, OSError):
+        return []
+
+
+def render_bids_section(bids: list) -> str:
+    if not bids:
+        return '<div class="empty">최근 48시간 내 관련 입찰공고 없음</div>'
+    cards = "".join(render_bid_card(b) for b in bids)
+    return f"""
+      <section class="company-card stripe-mid">
+        <div class="company-head">
+          <span class="company-name">나라장터 입찰공고</span>
+          <span class="company-cat">공공 조달 · 자동 키워드 검색</span>
+        </div>
+        <div class="company-body">{cards}</div>
+      </section>"""
+
+
 def load_enrich(date: str) -> dict:
     """AI 다듬기 단계(예약 작업)가 만들어두는 선택적 보강 데이터. 없으면 빈 값으로 정상 동작."""
     path = ENRICH_DIR / f"{date}.json"
@@ -182,6 +216,8 @@ def build_date_panel(data: dict, is_active: bool) -> str:
 
     global_html = "".join(render_global_section(g, enrich_global) for g in data["global"]) or '<div class="empty">최근 48시간 내 해외 동향 없음</div>'
 
+    bids_html = render_bids_section(load_bids(date))
+
     active_cls = " active" if is_active else ""
     return f"""
     <div class="date-panel{active_cls}" id="date-panel-{date}" data-date="{date}">
@@ -191,6 +227,7 @@ def build_date_panel(data: dict, is_active: bool) -> str:
         {market_section}
       </div>
       <div class="global-content">{global_html}</div>
+      <div class="bids-content">{bids_html}</div>
     </div>"""
 
 
@@ -246,8 +283,9 @@ def main():
   .subtab.active {{ background:#fff; color:var(--text); box-shadow:0 1px 3px rgba(0,0,0,.08); }}
   .date-panel {{ display:none; }}
   .date-panel.active {{ display:block; }}
-  body.mode-domestic .global-content {{ display:none; }}
-  body.mode-global .domestic-content {{ display:none; }}
+  body.mode-domestic .global-content, body.mode-domestic .bids-content {{ display:none; }}
+  body.mode-global .domestic-content, body.mode-global .bids-content {{ display:none; }}
+  body.mode-bids .domestic-content, body.mode-bids .global-content {{ display:none; }}
   .company-card {{ background: var(--card-bg); border-radius:10px; margin-bottom:14px; border:1px solid var(--border); border-left:4px solid #ccc; overflow:hidden; }}
   .stripe-high {{ border-left-color: var(--high); }}
   .stripe-mid {{ border-left-color: var(--mid); }}
@@ -288,6 +326,7 @@ def main():
   <div class="subtabs">
     <div class="subtab active" data-panel="domestic">국내</div>
     <div class="subtab" data-panel="global">해외</div>
+    <div class="subtab" data-panel="bids">입찰정보</div>
   </div>
 
   {date_panels_html}

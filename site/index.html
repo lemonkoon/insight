@@ -26,8 +26,9 @@
   .subtab.active { background:#fff; color:var(--text); box-shadow:0 1px 3px rgba(0,0,0,.08); }
   .date-panel { display:none; }
   .date-panel.active { display:block; }
-  body.mode-domestic .global-content { display:none; }
-  body.mode-global .domestic-content { display:none; }
+  body.mode-domestic .global-content, body.mode-domestic .bids-content { display:none; }
+  body.mode-global .domestic-content, body.mode-global .bids-content { display:none; }
+  body.mode-bids .domestic-content, body.mode-bids .global-content { display:none; }
   .company-card { background: var(--card-bg); border-radius:10px; margin-bottom:14px; border:1px solid var(--border); border-left:4px solid #ccc; overflow:hidden; }
   .stripe-high { border-left-color: var(--high); }
   .stripe-mid { border-left-color: var(--mid); }
@@ -68,6 +69,7 @@
   <div class="subtabs">
     <div class="subtab active" data-panel="domestic">국내</div>
     <div class="subtab" data-panel="global">해외</div>
+    <div class="subtab" data-panel="bids">입찰정보</div>
   </div>
 
   
@@ -157,6 +159,26 @@
           <div class="item-meta">forkast.news · 2026-08-22 · 최근 소식</div>
         </a></div>
         <div class="why-line">※ 왜 중요한가: (다음 자동 갱신 때 채워질 예정)</div>
+      </section></div>
+      <div class="bids-content">
+      <section class="company-card stripe-mid">
+        <div class="company-head">
+          <span class="company-name">나라장터 입찰공고</span>
+          <span class="company-cat">공공 조달 · 자동 키워드 검색</span>
+        </div>
+        <div class="company-body">
+        <a class="item-card badge-mid" href="https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01694885&amp;bidPbancOrd=000" target="_blank" rel="noopener">
+          <div class="item-title">군자기지 통합관제센터 대체진입로 개설공사 건설폐기물 처리용역</div>
+          <div class="item-meta">서울교통공사 · 마감 2026-08-28 10:00:00 · #통합관제</div>
+        </a>
+        <a class="item-card badge-mid" href="https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01695521&amp;bidPbancOrd=000" target="_blank" rel="noopener">
+          <div class="item-title">스마트도시 통합관제플랫폼 구축</div>
+          <div class="item-meta">주식회사 센코 · 마감 2026-09-04 15:00:00 · #통합관제</div>
+        </a>
+        <a class="item-card badge-mid" href="https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01693100&amp;bidPbancOrd=000" target="_blank" rel="noopener">
+          <div class="item-title">서민금융진흥원 보안관제 운영 용역</div>
+          <div class="item-meta">서민금융진흥원 · 마감 2026-09-14 16:00:00 · #보안관제</div>
+        </a></div>
       </section></div>
     </div>
 
