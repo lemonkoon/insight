@@ -11,6 +11,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 RAW_DIR = ROOT / "data" / "raw"
+ENRICH_DIR = ROOT / "data" / "enrich"
 SITE_DIR = ROOT / "site"
 
 MAX_DAYS = 30
@@ -48,12 +49,15 @@ def esc(s: str) -> str:
     return (s or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
 
-def render_item_card(item: dict) -> str:
+def render_item_card(item: dict, translated_title: str = None) -> str:
     badge = badge_for(item)
     date_str = item["pubDate"][:10]
+    main_title = esc(translated_title) if translated_title else esc(item["title"])
+    orig_line = f'<div class="item-title-orig">{esc(item["title"])}</div>' if translated_title else ""
     return f"""
         <a class="item-card badge-{badge}" href="{esc(item['link'])}" target="_blank" rel="noopener">
-          <div class="item-title">{esc(item['title'])}</div>
+          <div class="item-title">{main_title}</div>
+          {orig_line}
           <div class="item-meta">{esc(item['source'])} · {date_str}{' · 최근 소식' if item.get('recent') else ''}</div>
         </a>"""
 
@@ -107,13 +111,23 @@ def render_own_section(own: dict) -> str:
       </section>"""
 
 
-def render_global_section(g: dict) -> str:
+def render_global_section(g: dict, enrich_map: dict) -> str:
     items = g["items"]
     recent_items = [i for i in items if i.get("recent")] if isinstance(items, list) else []
     if not recent_items:
         return ""
     shown = recent_items[:2]
-    cards = "".join(render_item_card(i) for i in shown)
+    cards = ""
+    why_lines = []
+    for i in shown:
+        e = enrich_map.get(i["link"], {})
+        cards += render_item_card(i, translated_title=e.get("title_ko"))
+        if e.get("why"):
+            why_lines.append(e["why"])
+    if why_lines:
+        why_html = "".join(f'<div class="why-line">※ 왜 중요한가: {esc(w)}</div>' for w in why_lines)
+    else:
+        why_html = '<div class="why-line">※ 왜 중요한가: (다음 자동 갱신 때 채워질 예정)</div>'
     return f"""
       <section class="company-card stripe-mid">
         <div class="company-head">
@@ -121,12 +135,25 @@ def render_global_section(g: dict) -> str:
           <span class="badge-pill badge-mid">참고</span>
         </div>
         <div class="company-body">{cards}</div>
-        <div class="why-line">※ 왜 중요한가: (다듬기 단계에서 AI가 채울 자리 — 지금은 목업)</div>
+        {why_html}
       </section>"""
+
+
+def load_enrich(date: str) -> dict:
+    """AI 다듬기 단계(예약 작업)가 만들어두는 선택적 보강 데이터. 없으면 빈 값으로 정상 동작."""
+    path = ENRICH_DIR / f"{date}.json"
+    if not path.exists():
+        return {}
+    try:
+        return json.loads(path.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return {}
 
 
 def build_date_panel(data: dict, is_active: bool) -> str:
     date = data["date"]
+    enrich = load_enrich(date)
+    enrich_global = enrich.get("global", {})
 
     all_recent_titles = []
     for c in data["domestic"]:
@@ -134,7 +161,7 @@ def build_date_panel(data: dict, is_active: bool) -> str:
             all_recent_titles += [i["title"] for i in c["items"] if i.get("recent")]
     if isinstance(data.get("market", {}).get("items"), list):
         all_recent_titles += [i["title"] for i in data["market"]["items"] if i.get("recent")]
-    keywords = extract_keywords(all_recent_titles)
+    keywords = enrich.get("keywords") or extract_keywords(all_recent_titles)
     if not keywords:
         fallback_titles = []
         for c in data["domestic"]:
@@ -153,7 +180,7 @@ def build_date_panel(data: dict, is_active: bool) -> str:
     market_card = render_company_section({**data["market"], "category": ""}) if data.get("market") else ""
     market_section = f'<h2 class="section-title">국내 시장 전반</h2>{market_card}' if market_card else ""
 
-    global_html = "".join(render_global_section(g) for g in data["global"]) or '<div class="empty">최근 48시간 내 해외 동향 없음</div>'
+    global_html = "".join(render_global_section(g, enrich_global) for g in data["global"]) or '<div class="empty">최근 48시간 내 해외 동향 없음</div>'
 
     active_cls = " active" if is_active else ""
     return f"""
@@ -238,6 +265,7 @@ def main():
   .item-card {{ display:block; padding:10px 10px; border-radius:6px; text-decoration:none; color:inherit; }}
   .item-card:hover {{ background:#f8f9fb; }}
   .item-title {{ font-size:14px; font-weight:600; margin-bottom:3px; }}
+  .item-title-orig {{ font-size:11px; color: var(--text-dim); margin-bottom:3px; }}
   .item-meta {{ font-size:12px; color: var(--text-dim); }}
   .empty {{ padding:14px 12px; font-size:13px; color: var(--text-dim); }}
   .why-line {{ padding: 4px 12px 12px; font-size:12px; color:#7c3aed; font-style:italic; }}
