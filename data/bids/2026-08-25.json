@@ -1,6 +1,6 @@
 {
   "date": "2026-08-25",
-  "collected_at": "2026-08-25T00:18:02.090254+00:00",
+  "collected_at": "2026-08-25T00:47:25.510054+00:00",
   "bids": [
     {
       "biz_type": "용역",
@@ -10,24 +10,6 @@
       "org": "주식회사 센코",
       "close_date": "2026-09-04 15:00:00",
       "link": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01695521&bidPbancOrd=000"
-    },
-    {
-      "biz_type": "용역",
-      "matched_keyword": "보안관제",
-      "title": "서민금융진흥원 보안관제 운영 용역",
-      "notice_no": "R26BK01693100",
-      "org": "서민금융진흥원",
-      "close_date": "2026-09-14 16:00:00",
-      "link": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01693100&bidPbancOrd=000"
-    },
-    {
-      "biz_type": "물품",
-      "matched_keyword": "이상행위탐지",
-      "title": "네트워크 이상행위 탐지·대응 및 위협 예측 기술 실증 테스트용 PC 구매",
-      "notice_no": "R26BK01694058",
-      "org": "한국과학기술정보연구원",
-      "close_date": "2026-09-01 10:00:00",
-      "link": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01694058&bidPbancOrd=000"
     }
   ]
 }

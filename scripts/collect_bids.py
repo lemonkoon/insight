@@ -60,7 +60,16 @@ EXCLUDE_KEYWORDS = [
     "폐기물", "청소", "방역", "소독",
     "차량", "주차장",
     "경비", "미화",
+    # InfraEye/BigEye는 소프트웨어 플랫폼 제품(라이선스/구축)이지 인력 파견이 아니다.
+    # "OO 보안관제 운영 용역"류는 관제요원(사람)을 상주시키는 인력 파견 용역이라
+    # 우리 제품 도입 기회가 아니므로 제외한다. 실제 사례: "서민금융진흥원 보안관제 운영 용역".
+    "운영 용역", "위탁운영", "관제요원", "관제인력", "인력파견", "파견용역", "경비용역",
 ]
+
+# 물품(하드웨어 구매) 유형은 소프트웨어/플랫폼 관련 단어가 함께 있어야만 채택한다.
+# 예: "...위협 예측 기술 실증 테스트용 PC 구매"는 "이상행위탐지" 키워드에 걸렸지만
+# 실제로는 그냥 PC 구매 건이라 무관함 — 이런 단순 하드웨어 구매 오탐을 막기 위함.
+GOODS_REQUIRE_ANY = ["소프트웨어", "솔루션", "라이선스", "시스템", "플랫폼"]
 
 
 def load_service_key() -> str:
@@ -138,6 +147,9 @@ def main():
                     continue
                 title = it.get("bidNtceNm", "")
                 if any(ex_kw in title for ex_kw in EXCLUDE_KEYWORDS):
+                    excluded_count += 1
+                    continue
+                if biz_type == "물품" and not any(req in title for req in GOODS_REQUIRE_ANY):
                     excluded_count += 1
                     continue
                 seen_notice_no.add(notice_no)
