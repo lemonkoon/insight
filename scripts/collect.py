@@ -17,7 +17,7 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "data" / "raw"
 
 KST = timezone(timedelta(hours=9))
-RECENCY_HOURS = 48  # 브리프 기준: 최근 24~48시간
+RECENCY_HOURS = 24  # 매일 09:00 KST 24시간 간격으로 수집하므로 24시간으로 맞춰야 전날 기사가 중복으로 다시 "최근" 표시되지 않는다.
 
 # 국내 경쟁사 5곳
 DOMESTIC_COMPANIES = [

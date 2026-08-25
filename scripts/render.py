@@ -161,7 +161,7 @@ def load_bids(date: str) -> list:
 
 def render_bids_section(bids: list) -> str:
     if not bids:
-        return '<div class="empty">최근 48시간 내 관련 입찰공고 없음</div>'
+        return '<div class="empty">최근 24시간 내 관련 입찰공고 없음</div>'
     cards = "".join(render_bid_card(b) for b in bids)
     return f"""
       <section class="company-card stripe-mid">
@@ -214,7 +214,7 @@ def build_date_panel(data: dict, is_active: bool) -> str:
     market_card = render_company_section({**data["market"], "category": ""}) if data.get("market") else ""
     market_section = f'<h2 class="section-title">국내 시장 전반</h2>{market_card}' if market_card else ""
 
-    global_html = "".join(render_global_section(g, enrich_global) for g in data["global"]) or '<div class="empty">최근 48시간 내 해외 동향 없음</div>'
+    global_html = "".join(render_global_section(g, enrich_global) for g in data["global"]) or '<div class="empty">최근 24시간 내 해외 동향 없음</div>'
 
     bids_html = render_bids_section(load_bids(date))
 

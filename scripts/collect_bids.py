@@ -21,7 +21,7 @@ DATA_DIR = ROOT / "data" / "bids"
 KEY_FILE = ROOT / "scripts" / "g2b_key.txt"
 
 KST = timezone(timedelta(hours=9))
-LOOKBACK_HOURS = 48
+LOOKBACK_HOURS = 24  # 매일 09:00 KST 24시간 간격으로 수집하므로 24시간으로 맞춰야 전날 공고가 중복으로 다시 뜨지 않는다.
 
 BASE_URL = "https://apis.data.go.kr/1230000/ad/BidPublicInfoService"
 
